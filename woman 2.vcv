@@ -1,0 +1,5786 @@
+{
+  "version": "0.6.2b",
+  "modules": [
+    {
+      "plugin": "Core",
+      "version": "0.6.2b",
+      "model": "AudioInterface",
+      "params": [],
+      "data": {
+        "audio": {
+          "driver": 6,
+          "deviceName": "Headset Earphone (Sennheiser SC60 for Lync)",
+          "offset": 0,
+          "maxChannels": 8,
+          "sampleRate": 48000,
+          "blockSize": 256
+        }
+      },
+      "pos": [
+        107,
+        1
+      ]
+    },
+    {
+      "plugin": "mscHack",
+      "version": "0.6.3",
+      "model": "Windz",
+      "params": [
+        {
+          "paramId": 0,
+          "value": 0.0
+        }
+      ],
+      "data": {
+        "m_Seed": [
+          -639891089
+        ]
+      },
+      "pos": [
+        52,
+        0
+      ]
+    },
+    {
+      "plugin": "AS",
+      "version": "0.6.13",
+      "model": "BPMClock",
+      "params": [
+        {
+          "paramId": 0,
+          "value": 136.695053
+        },
+        {
+          "paramId": 1,
+          "value": 1.0
+        },
+        {
+          "paramId": 2,
+          "value": 4.0
+        },
+        {
+          "paramId": 3,
+          "value": 1.0
+        },
+        {
+          "paramId": 5,
+          "value": 0.0
+        },
+        {
+          "paramId": 4,
+          "value": 0.0
+        }
+      ],
+      "data": {
+        "run": [
+          1
+        ]
+      },
+      "pos": [
+        33,
+        1
+      ]
+    },
+    {
+      "plugin": "mscHack",
+      "version": "0.6.3",
+      "model": "Mix_24_4_4",
+      "params": [
+        {
+          "paramId": 161,
+          "value": 0.994499445
+        },
+        {
+          "paramId": 162,
+          "value": 0.0
+        },
+        {
+          "paramId": 163,
+          "value": 0.0
+        },
+        {
+          "paramId": 164,
+          "value": 0.0
+        },
+        {
+          "paramId": 65,
+          "value": 0.130500033
+        },
+        {
+          "paramId": 97,
+          "value": 0.5
+        },
+        {
+          "paramId": 129,
+          "value": 0.0314999968
+        },
+        {
+          "paramId": 33,
+          "value": 0.0
+        },
+        {
+          "paramId": 1,
+          "value": 0.0839998573
+        },
+        {
+          "paramId": 165,
+          "value": 0.0
+        },
+        {
+          "paramId": 166,
+          "value": 1.0
+        },
+        {
+          "paramId": 167,
+          "value": 0.0
+        },
+        {
+          "paramId": 168,
+          "value": 0.0
+        },
+        {
+          "paramId": 66,
+          "value": 0.5
+        },
+        {
+          "paramId": 98,
+          "value": 0.5
+        },
+        {
+          "paramId": 130,
+          "value": 0.5
+        },
+        {
+          "paramId": 34,
+          "value": 0.0
+        },
+        {
+          "paramId": 2,
+          "value": 0.684000015
+        },
+        {
+          "paramId": 169,
+          "value": 0.0
+        },
+        {
+          "paramId": 170,
+          "value": 0.0
+        },
+        {
+          "paramId": 171,
+          "value": 0.0
+        },
+        {
+          "paramId": 172,
+          "value": 0.0
+        },
+        {
+          "paramId": 67,
+          "value": 0.5
+        },
+        {
+          "paramId": 99,
+          "value": 0.5
+        },
+        {
+          "paramId": 131,
+          "value": 0.5
+        },
+        {
+          "paramId": 35,
+          "value": 0.0
+        },
+        {
+          "paramId": 3,
+          "value": 0.549000084
+        },
+        {
+          "paramId": 173,
+          "value": 0.0
+        },
+        {
+          "paramId": 174,
+          "value": 0.0
+        },
+        {
+          "paramId": 175,
+          "value": 0.0
+        },
+        {
+          "paramId": 176,
+          "value": 0.0
+        },
+        {
+          "paramId": 68,
+          "value": 0.832000613
+        },
+        {
+          "paramId": 100,
+          "value": 0.0209999997
+        },
+        {
+          "paramId": 132,
+          "value": 0.0
+        },
+        {
+          "paramId": 36,
+          "value": -0.335999936
+        },
+        {
+          "paramId": 4,
+          "value": 0.781000018
+        },
+        {
+          "paramId": 177,
+          "value": 0.0
+        },
+        {
+          "paramId": 178,
+          "value": 0.0
+        },
+        {
+          "paramId": 179,
+          "value": 0.0
+        },
+        {
+          "paramId": 180,
+          "value": 0.0
+        },
+        {
+          "paramId": 69,
+          "value": 0.5
+        },
+        {
+          "paramId": 101,
+          "value": 0.5
+        },
+        {
+          "paramId": 133,
+          "value": 0.5
+        },
+        {
+          "paramId": 37,
+          "value": 0.0
+        },
+        {
+          "paramId": 5,
+          "value": 0.0
+        },
+        {
+          "paramId": 181,
+          "value": 0.0
+        },
+        {
+          "paramId": 182,
+          "value": 0.0
+        },
+        {
+          "paramId": 183,
+          "value": 0.0
+        },
+        {
+          "paramId": 184,
+          "value": 0.0
+        },
+        {
+          "paramId": 70,
+          "value": 0.5
+        },
+        {
+          "paramId": 102,
+          "value": 0.5
+        },
+        {
+          "paramId": 134,
+          "value": 0.5
+        },
+        {
+          "paramId": 38,
+          "value": 0.0
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        },
+        {
+          "paramId": 185,
+          "value": 0.0
+        },
+        {
+          "paramId": 186,
+          "value": 0.0
+        },
+        {
+          "paramId": 187,
+          "value": 0.0
+        },
+        {
+          "paramId": 188,
+          "value": 0.0
+        },
+        {
+          "paramId": 71,
+          "value": 0.5
+        },
+        {
+          "paramId": 103,
+          "value": 0.5
+        },
+        {
+          "paramId": 135,
+          "value": 0.5
+        },
+        {
+          "paramId": 39,
+          "value": 0.0
+        },
+        {
+          "paramId": 7,
+          "value": 0.0
+        },
+        {
+          "paramId": 189,
+          "value": 0.0
+        },
+        {
+          "paramId": 190,
+          "value": 0.0
+        },
+        {
+          "paramId": 191,
+          "value": 0.0
+        },
+        {
+          "paramId": 192,
+          "value": 0.0
+        },
+        {
+          "paramId": 72,
+          "value": 0.5
+        },
+        {
+          "paramId": 104,
+          "value": 0.5
+        },
+        {
+          "paramId": 136,
+          "value": 0.5
+        },
+        {
+          "paramId": 40,
+          "value": 0.0
+        },
+        {
+          "paramId": 8,
+          "value": 0.0
+        },
+        {
+          "paramId": 193,
+          "value": 0.0
+        },
+        {
+          "paramId": 194,
+          "value": 0.0
+        },
+        {
+          "paramId": 195,
+          "value": 0.0
+        },
+        {
+          "paramId": 196,
+          "value": 0.0
+        },
+        {
+          "paramId": 73,
+          "value": 0.5
+        },
+        {
+          "paramId": 105,
+          "value": 0.5
+        },
+        {
+          "paramId": 137,
+          "value": 0.5
+        },
+        {
+          "paramId": 41,
+          "value": 0.0
+        },
+        {
+          "paramId": 9,
+          "value": 0.0
+        },
+        {
+          "paramId": 197,
+          "value": 0.0
+        },
+        {
+          "paramId": 198,
+          "value": 0.0
+        },
+        {
+          "paramId": 199,
+          "value": 0.0
+        },
+        {
+          "paramId": 200,
+          "value": 0.0
+        },
+        {
+          "paramId": 74,
+          "value": 0.5
+        },
+        {
+          "paramId": 106,
+          "value": 0.5
+        },
+        {
+          "paramId": 138,
+          "value": 0.5
+        },
+        {
+          "paramId": 42,
+          "value": 0.0
+        },
+        {
+          "paramId": 10,
+          "value": 0.0
+        },
+        {
+          "paramId": 201,
+          "value": 0.0
+        },
+        {
+          "paramId": 202,
+          "value": 0.0
+        },
+        {
+          "paramId": 203,
+          "value": 0.0
+        },
+        {
+          "paramId": 204,
+          "value": 0.0
+        },
+        {
+          "paramId": 75,
+          "value": 0.5
+        },
+        {
+          "paramId": 107,
+          "value": 0.5
+        },
+        {
+          "paramId": 139,
+          "value": 0.5
+        },
+        {
+          "paramId": 43,
+          "value": 0.0
+        },
+        {
+          "paramId": 11,
+          "value": 0.0
+        },
+        {
+          "paramId": 205,
+          "value": 0.0
+        },
+        {
+          "paramId": 206,
+          "value": 0.0
+        },
+        {
+          "paramId": 207,
+          "value": 0.0
+        },
+        {
+          "paramId": 208,
+          "value": 0.0
+        },
+        {
+          "paramId": 76,
+          "value": 0.5
+        },
+        {
+          "paramId": 108,
+          "value": 0.5
+        },
+        {
+          "paramId": 140,
+          "value": 0.5
+        },
+        {
+          "paramId": 44,
+          "value": 0.0
+        },
+        {
+          "paramId": 12,
+          "value": 0.0
+        },
+        {
+          "paramId": 209,
+          "value": 0.0
+        },
+        {
+          "paramId": 210,
+          "value": 0.0
+        },
+        {
+          "paramId": 211,
+          "value": 0.0
+        },
+        {
+          "paramId": 212,
+          "value": 0.0
+        },
+        {
+          "paramId": 77,
+          "value": 0.5
+        },
+        {
+          "paramId": 109,
+          "value": 0.5
+        },
+        {
+          "paramId": 141,
+          "value": 0.5
+        },
+        {
+          "paramId": 45,
+          "value": 0.0
+        },
+        {
+          "paramId": 13,
+          "value": 0.0
+        },
+        {
+          "paramId": 213,
+          "value": 0.0
+        },
+        {
+          "paramId": 214,
+          "value": 0.0
+        },
+        {
+          "paramId": 215,
+          "value": 0.0
+        },
+        {
+          "paramId": 216,
+          "value": 0.0
+        },
+        {
+          "paramId": 78,
+          "value": 0.5
+        },
+        {
+          "paramId": 110,
+          "value": 0.5
+        },
+        {
+          "paramId": 142,
+          "value": 0.5
+        },
+        {
+          "paramId": 46,
+          "value": 0.0
+        },
+        {
+          "paramId": 14,
+          "value": 0.0
+        },
+        {
+          "paramId": 217,
+          "value": 0.0
+        },
+        {
+          "paramId": 218,
+          "value": 0.0
+        },
+        {
+          "paramId": 219,
+          "value": 0.0
+        },
+        {
+          "paramId": 220,
+          "value": 0.0
+        },
+        {
+          "paramId": 79,
+          "value": 0.5
+        },
+        {
+          "paramId": 111,
+          "value": 0.5
+        },
+        {
+          "paramId": 143,
+          "value": 0.5
+        },
+        {
+          "paramId": 47,
+          "value": 0.0
+        },
+        {
+          "paramId": 15,
+          "value": 0.0
+        },
+        {
+          "paramId": 221,
+          "value": 0.0
+        },
+        {
+          "paramId": 222,
+          "value": 0.0
+        },
+        {
+          "paramId": 223,
+          "value": 0.0
+        },
+        {
+          "paramId": 224,
+          "value": 0.0
+        },
+        {
+          "paramId": 80,
+          "value": 0.5
+        },
+        {
+          "paramId": 112,
+          "value": 0.5
+        },
+        {
+          "paramId": 144,
+          "value": 0.5
+        },
+        {
+          "paramId": 48,
+          "value": 0.0
+        },
+        {
+          "paramId": 16,
+          "value": 0.0
+        },
+        {
+          "paramId": 225,
+          "value": 0.0
+        },
+        {
+          "paramId": 226,
+          "value": 0.0
+        },
+        {
+          "paramId": 227,
+          "value": 0.0
+        },
+        {
+          "paramId": 228,
+          "value": 0.0
+        },
+        {
+          "paramId": 81,
+          "value": 0.5
+        },
+        {
+          "paramId": 113,
+          "value": 0.5
+        },
+        {
+          "paramId": 145,
+          "value": 0.5
+        },
+        {
+          "paramId": 49,
+          "value": 0.0
+        },
+        {
+          "paramId": 17,
+          "value": 0.0
+        },
+        {
+          "paramId": 229,
+          "value": 0.0
+        },
+        {
+          "paramId": 230,
+          "value": 0.0
+        },
+        {
+          "paramId": 231,
+          "value": 0.0
+        },
+        {
+          "paramId": 232,
+          "value": 0.0
+        },
+        {
+          "paramId": 82,
+          "value": 0.5
+        },
+        {
+          "paramId": 114,
+          "value": 0.5
+        },
+        {
+          "paramId": 146,
+          "value": 0.5
+        },
+        {
+          "paramId": 50,
+          "value": 0.0
+        },
+        {
+          "paramId": 18,
+          "value": 0.0
+        },
+        {
+          "paramId": 233,
+          "value": 0.0
+        },
+        {
+          "paramId": 234,
+          "value": 0.0
+        },
+        {
+          "paramId": 235,
+          "value": 0.0
+        },
+        {
+          "paramId": 236,
+          "value": 0.0
+        },
+        {
+          "paramId": 83,
+          "value": 0.5
+        },
+        {
+          "paramId": 115,
+          "value": 0.5
+        },
+        {
+          "paramId": 147,
+          "value": 0.5
+        },
+        {
+          "paramId": 51,
+          "value": 0.0
+        },
+        {
+          "paramId": 19,
+          "value": 0.0
+        },
+        {
+          "paramId": 237,
+          "value": 0.0
+        },
+        {
+          "paramId": 238,
+          "value": 0.0
+        },
+        {
+          "paramId": 239,
+          "value": 0.0
+        },
+        {
+          "paramId": 240,
+          "value": 0.0
+        },
+        {
+          "paramId": 84,
+          "value": 0.5
+        },
+        {
+          "paramId": 116,
+          "value": 0.5
+        },
+        {
+          "paramId": 148,
+          "value": 0.5
+        },
+        {
+          "paramId": 52,
+          "value": 0.0
+        },
+        {
+          "paramId": 20,
+          "value": 0.0
+        },
+        {
+          "paramId": 241,
+          "value": 0.0
+        },
+        {
+          "paramId": 242,
+          "value": 0.0
+        },
+        {
+          "paramId": 243,
+          "value": 0.0
+        },
+        {
+          "paramId": 244,
+          "value": 0.0
+        },
+        {
+          "paramId": 85,
+          "value": 0.5
+        },
+        {
+          "paramId": 117,
+          "value": 0.5
+        },
+        {
+          "paramId": 149,
+          "value": 0.5
+        },
+        {
+          "paramId": 53,
+          "value": 0.0
+        },
+        {
+          "paramId": 21,
+          "value": 0.0
+        },
+        {
+          "paramId": 245,
+          "value": 0.0
+        },
+        {
+          "paramId": 246,
+          "value": 0.0
+        },
+        {
+          "paramId": 247,
+          "value": 0.0
+        },
+        {
+          "paramId": 248,
+          "value": 0.0
+        },
+        {
+          "paramId": 86,
+          "value": 0.5
+        },
+        {
+          "paramId": 118,
+          "value": 0.5
+        },
+        {
+          "paramId": 150,
+          "value": 0.5
+        },
+        {
+          "paramId": 54,
+          "value": 0.0
+        },
+        {
+          "paramId": 22,
+          "value": 0.0
+        },
+        {
+          "paramId": 249,
+          "value": 0.0
+        },
+        {
+          "paramId": 250,
+          "value": 0.0
+        },
+        {
+          "paramId": 251,
+          "value": 0.0
+        },
+        {
+          "paramId": 252,
+          "value": 0.0
+        },
+        {
+          "paramId": 87,
+          "value": 0.5
+        },
+        {
+          "paramId": 119,
+          "value": 0.5
+        },
+        {
+          "paramId": 151,
+          "value": 0.5
+        },
+        {
+          "paramId": 55,
+          "value": 0.0
+        },
+        {
+          "paramId": 23,
+          "value": 0.0
+        },
+        {
+          "paramId": 253,
+          "value": 0.0
+        },
+        {
+          "paramId": 254,
+          "value": 0.0
+        },
+        {
+          "paramId": 255,
+          "value": 0.0
+        },
+        {
+          "paramId": 256,
+          "value": 0.0
+        },
+        {
+          "paramId": 88,
+          "value": 0.5
+        },
+        {
+          "paramId": 120,
+          "value": 0.5
+        },
+        {
+          "paramId": 152,
+          "value": 0.5
+        },
+        {
+          "paramId": 56,
+          "value": 0.0
+        },
+        {
+          "paramId": 24,
+          "value": 0.0
+        },
+        {
+          "paramId": 257,
+          "value": 0.0
+        },
+        {
+          "paramId": 258,
+          "value": 0.0
+        },
+        {
+          "paramId": 259,
+          "value": 0.0
+        },
+        {
+          "paramId": 260,
+          "value": 0.0
+        },
+        {
+          "paramId": 89,
+          "value": 0.5
+        },
+        {
+          "paramId": 121,
+          "value": 0.5
+        },
+        {
+          "paramId": 153,
+          "value": 0.5
+        },
+        {
+          "paramId": 57,
+          "value": 0.0
+        },
+        {
+          "paramId": 25,
+          "value": 0.701999962
+        },
+        {
+          "paramId": 261,
+          "value": 0.0
+        },
+        {
+          "paramId": 262,
+          "value": 0.0
+        },
+        {
+          "paramId": 263,
+          "value": 0.0
+        },
+        {
+          "paramId": 264,
+          "value": 0.0
+        },
+        {
+          "paramId": 90,
+          "value": 0.5
+        },
+        {
+          "paramId": 122,
+          "value": 0.5
+        },
+        {
+          "paramId": 154,
+          "value": 0.5
+        },
+        {
+          "paramId": 58,
+          "value": 0.0
+        },
+        {
+          "paramId": 26,
+          "value": 0.0
+        },
+        {
+          "paramId": 265,
+          "value": 0.0
+        },
+        {
+          "paramId": 266,
+          "value": 0.0
+        },
+        {
+          "paramId": 267,
+          "value": 0.0
+        },
+        {
+          "paramId": 268,
+          "value": 0.0
+        },
+        {
+          "paramId": 91,
+          "value": 0.5
+        },
+        {
+          "paramId": 123,
+          "value": 0.5
+        },
+        {
+          "paramId": 155,
+          "value": 0.5
+        },
+        {
+          "paramId": 59,
+          "value": 0.0
+        },
+        {
+          "paramId": 27,
+          "value": 0.0
+        },
+        {
+          "paramId": 269,
+          "value": 0.0
+        },
+        {
+          "paramId": 270,
+          "value": 0.0
+        },
+        {
+          "paramId": 271,
+          "value": 0.0
+        },
+        {
+          "paramId": 272,
+          "value": 0.0
+        },
+        {
+          "paramId": 92,
+          "value": 0.5
+        },
+        {
+          "paramId": 124,
+          "value": 0.5
+        },
+        {
+          "paramId": 156,
+          "value": 0.5
+        },
+        {
+          "paramId": 60,
+          "value": 0.0
+        },
+        {
+          "paramId": 28,
+          "value": 0.0
+        },
+        {
+          "paramId": 273,
+          "value": 1.0
+        },
+        {
+          "paramId": 93,
+          "value": 0.5
+        },
+        {
+          "paramId": 125,
+          "value": 0.5
+        },
+        {
+          "paramId": 157,
+          "value": 0.5
+        },
+        {
+          "paramId": 61,
+          "value": 0.0
+        },
+        {
+          "paramId": 29,
+          "value": 0.0
+        },
+        {
+          "paramId": 274,
+          "value": 1.0
+        },
+        {
+          "paramId": 94,
+          "value": 0.5
+        },
+        {
+          "paramId": 126,
+          "value": 0.5
+        },
+        {
+          "paramId": 158,
+          "value": 0.445500016
+        },
+        {
+          "paramId": 62,
+          "value": 0.0
+        },
+        {
+          "paramId": 30,
+          "value": 1.0
+        },
+        {
+          "paramId": 275,
+          "value": 0.0
+        },
+        {
+          "paramId": 95,
+          "value": 0.5
+        },
+        {
+          "paramId": 127,
+          "value": 0.5
+        },
+        {
+          "paramId": 159,
+          "value": 0.5
+        },
+        {
+          "paramId": 63,
+          "value": 0.0
+        },
+        {
+          "paramId": 31,
+          "value": 0.0
+        },
+        {
+          "paramId": 276,
+          "value": 0.0
+        },
+        {
+          "paramId": 96,
+          "value": 0.5
+        },
+        {
+          "paramId": 128,
+          "value": 0.5
+        },
+        {
+          "paramId": 160,
+          "value": 0.5
+        },
+        {
+          "paramId": 64,
+          "value": 0.0
+        },
+        {
+          "paramId": 32,
+          "value": 0.0
+        },
+        {
+          "paramId": 0,
+          "value": 0.597499907
+        }
+      ],
+      "data": {
+        "m_bMuteStates": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        "m_bSoloStates": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        "m_iRouteGroup": [
+          4,
+          4,
+          0,
+          0,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4
+        ],
+        "m_bGroupPreMute": [
+          true
+        ],
+        "m_bGainLevelx2": [
+          false
+        ],
+        "m_bPreFader": [
+          true,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        "m_bAuxIgnoreSolo": [
+          false
+        ]
+      },
+      "pos": [
+        43,
+        1
+      ]
+    },
+    {
+      "plugin": "cf",
+      "version": "0.6.8",
+      "model": "LEDSEQ",
+      "params": [
+        {
+          "paramId": 1,
+          "value": 0.0
+        },
+        {
+          "paramId": 2,
+          "value": 0.0
+        },
+        {
+          "paramId": 3,
+          "value": 0.0
+        },
+        {
+          "paramId": 4,
+          "value": 0.0
+        },
+        {
+          "paramId": 5,
+          "value": 0.0
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        },
+        {
+          "paramId": 7,
+          "value": 0.0
+        },
+        {
+          "paramId": 8,
+          "value": 0.0
+        },
+        {
+          "paramId": 9,
+          "value": 0.0
+        },
+        {
+          "paramId": 10,
+          "value": 0.0
+        },
+        {
+          "paramId": 11,
+          "value": 0.0
+        },
+        {
+          "paramId": 12,
+          "value": 0.0
+        },
+        {
+          "paramId": 13,
+          "value": 0.0
+        },
+        {
+          "paramId": 14,
+          "value": 0.0
+        },
+        {
+          "paramId": 15,
+          "value": 0.0
+        },
+        {
+          "paramId": 16,
+          "value": 0.0
+        },
+        {
+          "paramId": 17,
+          "value": 0.0
+        },
+        {
+          "paramId": 18,
+          "value": 0.0
+        },
+        {
+          "paramId": 19,
+          "value": 0.0
+        },
+        {
+          "paramId": 20,
+          "value": 0.0
+        },
+        {
+          "paramId": 21,
+          "value": 0.0
+        },
+        {
+          "paramId": 22,
+          "value": 0.0
+        },
+        {
+          "paramId": 23,
+          "value": 0.0
+        },
+        {
+          "paramId": 24,
+          "value": 0.0
+        },
+        {
+          "paramId": 25,
+          "value": 0.0
+        },
+        {
+          "paramId": 26,
+          "value": 0.0
+        },
+        {
+          "paramId": 27,
+          "value": 0.0
+        },
+        {
+          "paramId": 28,
+          "value": 0.0
+        },
+        {
+          "paramId": 29,
+          "value": 0.0
+        },
+        {
+          "paramId": 30,
+          "value": 0.0
+        },
+        {
+          "paramId": 31,
+          "value": 0.0
+        },
+        {
+          "paramId": 32,
+          "value": 0.0
+        },
+        {
+          "paramId": 33,
+          "value": 0.0
+        },
+        {
+          "paramId": 34,
+          "value": 0.0
+        },
+        {
+          "paramId": 35,
+          "value": 0.0
+        },
+        {
+          "paramId": 36,
+          "value": 0.0
+        },
+        {
+          "paramId": 37,
+          "value": 0.0
+        },
+        {
+          "paramId": 38,
+          "value": 0.0
+        },
+        {
+          "paramId": 39,
+          "value": 0.0
+        },
+        {
+          "paramId": 40,
+          "value": 0.0
+        },
+        {
+          "paramId": 41,
+          "value": 0.0
+        },
+        {
+          "paramId": 42,
+          "value": 0.0
+        },
+        {
+          "paramId": 43,
+          "value": 0.0
+        },
+        {
+          "paramId": 44,
+          "value": 0.0
+        },
+        {
+          "paramId": 45,
+          "value": 0.0
+        },
+        {
+          "paramId": 46,
+          "value": 0.0
+        },
+        {
+          "paramId": 47,
+          "value": 0.0
+        },
+        {
+          "paramId": 48,
+          "value": 0.0
+        },
+        {
+          "paramId": 49,
+          "value": 0.0
+        },
+        {
+          "paramId": 50,
+          "value": 0.0
+        },
+        {
+          "paramId": 51,
+          "value": 0.0
+        },
+        {
+          "paramId": 52,
+          "value": 0.0
+        },
+        {
+          "paramId": 53,
+          "value": 0.0
+        },
+        {
+          "paramId": 54,
+          "value": 0.0
+        },
+        {
+          "paramId": 55,
+          "value": 0.0
+        },
+        {
+          "paramId": 56,
+          "value": 0.0
+        },
+        {
+          "paramId": 57,
+          "value": 0.0
+        },
+        {
+          "paramId": 58,
+          "value": 0.0
+        },
+        {
+          "paramId": 59,
+          "value": 0.0
+        },
+        {
+          "paramId": 60,
+          "value": 0.0
+        },
+        {
+          "paramId": 61,
+          "value": 0.0
+        },
+        {
+          "paramId": 62,
+          "value": 0.0
+        },
+        {
+          "paramId": 63,
+          "value": 0.0
+        },
+        {
+          "paramId": 64,
+          "value": 0.0
+        },
+        {
+          "paramId": 65,
+          "value": 0.0
+        },
+        {
+          "paramId": 66,
+          "value": 0.0
+        },
+        {
+          "paramId": 67,
+          "value": 0.0
+        },
+        {
+          "paramId": 68,
+          "value": 0.0
+        },
+        {
+          "paramId": 69,
+          "value": 0.0
+        },
+        {
+          "paramId": 70,
+          "value": 0.0
+        },
+        {
+          "paramId": 71,
+          "value": 0.0
+        },
+        {
+          "paramId": 72,
+          "value": 0.0
+        },
+        {
+          "paramId": 73,
+          "value": 0.0
+        },
+        {
+          "paramId": 74,
+          "value": 0.0
+        },
+        {
+          "paramId": 75,
+          "value": 0.0
+        },
+        {
+          "paramId": 76,
+          "value": 0.0
+        },
+        {
+          "paramId": 77,
+          "value": 0.0
+        },
+        {
+          "paramId": 78,
+          "value": 0.0
+        },
+        {
+          "paramId": 79,
+          "value": 0.0
+        },
+        {
+          "paramId": 80,
+          "value": 0.0
+        },
+        {
+          "paramId": 0,
+          "value": 0.0
+        }
+      ],
+      "data": {
+        "leds": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "pos": [
+        29,
+        0
+      ]
+    },
+    {
+      "plugin": "Fundamental",
+      "version": "0.6.2",
+      "model": "Delay",
+      "params": [
+        {
+          "paramId": 0,
+          "value": 0.637999773
+        },
+        {
+          "paramId": 1,
+          "value": 0.63499999
+        },
+        {
+          "paramId": 2,
+          "value": 0.78799969
+        },
+        {
+          "paramId": 3,
+          "value": 0.5
+        }
+      ],
+      "pos": [
+        0,
+        0
+      ]
+    },
+    {
+      "plugin": "AS",
+      "version": "0.6.13",
+      "model": "TriLFO",
+      "params": [
+        {
+          "paramId": 2,
+          "value": -0.601000071
+        },
+        {
+          "paramId": 0,
+          "value": 0.0
+        },
+        {
+          "paramId": 1,
+          "value": 1.0
+        },
+        {
+          "paramId": 5,
+          "value": -2.88999987
+        },
+        {
+          "paramId": 3,
+          "value": 0.0
+        },
+        {
+          "paramId": 4,
+          "value": 1.0
+        },
+        {
+          "paramId": 8,
+          "value": -3.47799945
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        },
+        {
+          "paramId": 7,
+          "value": 1.0
+        }
+      ],
+      "pos": [
+        0,
+        1
+      ]
+    },
+    {
+      "plugin": "VultModulesFree",
+      "version": "0.6.25",
+      "model": "Trummor2",
+      "params": [
+        {
+          "paramId": 0,
+          "value": -0.0136000067
+        },
+        {
+          "paramId": 1,
+          "value": 0.5
+        },
+        {
+          "paramId": 2,
+          "value": 0.503502011
+        },
+        {
+          "paramId": 5,
+          "value": 0.0
+        },
+        {
+          "paramId": 3,
+          "value": 0.800999582
+        },
+        {
+          "paramId": 4,
+          "value": 0.0
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        },
+        {
+          "paramId": 7,
+          "value": 0.200000003
+        },
+        {
+          "paramId": 8,
+          "value": 0.400000006
+        },
+        {
+          "paramId": 9,
+          "value": 0.0
+        },
+        {
+          "paramId": 10,
+          "value": 0.0
+        },
+        {
+          "paramId": 11,
+          "value": 0.699999988
+        },
+        {
+          "paramId": 23,
+          "value": 0.446500003
+        },
+        {
+          "paramId": 12,
+          "value": -0.100000001
+        },
+        {
+          "paramId": 14,
+          "value": 0.0
+        },
+        {
+          "paramId": 13,
+          "value": 0.0
+        },
+        {
+          "paramId": 15,
+          "value": 0.682099879
+        },
+        {
+          "paramId": 16,
+          "value": 0.0
+        },
+        {
+          "paramId": 18,
+          "value": 0.0
+        },
+        {
+          "paramId": 19,
+          "value": 0.0500000007
+        },
+        {
+          "paramId": 20,
+          "value": 0.290000021
+        },
+        {
+          "paramId": 17,
+          "value": 0.0
+        },
+        {
+          "paramId": 22,
+          "value": 0.0
+        },
+        {
+          "paramId": 21,
+          "value": 0.0
+        },
+        {
+          "paramId": 25,
+          "value": 0.0
+        },
+        {
+          "paramId": 26,
+          "value": -0.246000051
+        },
+        {
+          "paramId": 27,
+          "value": 0.0
+        },
+        {
+          "paramId": 28,
+          "value": 0.0
+        },
+        {
+          "paramId": 29,
+          "value": 0.0
+        },
+        {
+          "paramId": 30,
+          "value": 0.0
+        },
+        {
+          "paramId": 31,
+          "value": 0.0
+        },
+        {
+          "paramId": 32,
+          "value": 0.0
+        }
+      ],
+      "data": {
+        "mod_a": 0,
+        "mod_b": 20,
+        "mod_c": 0,
+        "mod_d": 0
+      },
+      "pos": [
+        8,
+        0
+      ]
+    },
+    {
+      "plugin": "Bidoo",
+      "version": "0.6.26",
+      "model": "REI",
+      "params": [
+        {
+          "paramId": 0,
+          "value": 0.5
+        },
+        {
+          "paramId": 1,
+          "value": 0.5
+        },
+        {
+          "paramId": 3,
+          "value": 0.5
+        },
+        {
+          "paramId": 4,
+          "value": 0.490500003
+        },
+        {
+          "paramId": 5,
+          "value": 0.5
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        },
+        {
+          "paramId": 7,
+          "value": 0.902748644
+        },
+        {
+          "paramId": 2,
+          "value": 0.0
+        },
+        {
+          "paramId": 8,
+          "value": 1.0
+        }
+      ],
+      "pos": [
+        10,
+        1
+      ]
+    },
+    {
+      "plugin": "Bidoo",
+      "version": "0.6.26",
+      "model": "baR",
+      "params": [
+        {
+          "paramId": 0,
+          "value": -28.501194
+        },
+        {
+          "paramId": 1,
+          "value": 18.9835052
+        },
+        {
+          "paramId": 2,
+          "value": 10.0
+        },
+        {
+          "paramId": 3,
+          "value": 29.7340851
+        },
+        {
+          "paramId": 4,
+          "value": 24.0
+        },
+        {
+          "paramId": 5,
+          "value": 5.66999483
+        },
+        {
+          "paramId": 6,
+          "value": 0.94750011
+        },
+        {
+          "paramId": 7,
+          "value": 176.40007
+        }
+      ],
+      "pos": [
+        57,
+        0
+      ]
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "version": "0.6.3",
+      "model": "Elements",
+      "params": [
+        {
+          "paramId": 0,
+          "value": 0.542500317
+        },
+        {
+          "paramId": 1,
+          "value": 0.644499898
+        },
+        {
+          "paramId": 2,
+          "value": 0.0120000001
+        },
+        {
+          "paramId": 3,
+          "value": 0.0
+        },
+        {
+          "paramId": 4,
+          "value": -23.3399887
+        },
+        {
+          "paramId": 5,
+          "value": 0.0
+        },
+        {
+          "paramId": 6,
+          "value": -0.325999975
+        },
+        {
+          "paramId": 7,
+          "value": 0.5
+        },
+        {
+          "paramId": 8,
+          "value": 0.5
+        },
+        {
+          "paramId": 9,
+          "value": 0.831498921
+        },
+        {
+          "paramId": 10,
+          "value": 0.669500172
+        },
+        {
+          "paramId": 11,
+          "value": 0.714000046
+        },
+        {
+          "paramId": 12,
+          "value": 0.488499999
+        },
+        {
+          "paramId": 13,
+          "value": 0.88100028
+        },
+        {
+          "paramId": 14,
+          "value": 0.5
+        },
+        {
+          "paramId": 15,
+          "value": 0.5
+        },
+        {
+          "paramId": 16,
+          "value": 0.0
+        },
+        {
+          "paramId": 17,
+          "value": 0.0
+        },
+        {
+          "paramId": 18,
+          "value": 0.0
+        },
+        {
+          "paramId": 19,
+          "value": 0.0
+        },
+        {
+          "paramId": 20,
+          "value": 0.0
+        },
+        {
+          "paramId": 21,
+          "value": 0.0
+        },
+        {
+          "paramId": 22,
+          "value": 0.0
+        },
+        {
+          "paramId": 23,
+          "value": -0.0469999798
+        },
+        {
+          "paramId": 24,
+          "value": 0.0
+        },
+        {
+          "paramId": 25,
+          "value": 0.0
+        },
+        {
+          "paramId": 26,
+          "value": 0.0
+        },
+        {
+          "paramId": 27,
+          "value": 0.0
+        }
+      ],
+      "data": {
+        "model": 0
+      },
+      "pos": [
+        66,
+        2
+      ]
+    },
+    {
+      "plugin": "LindenbergResearch",
+      "version": "0.6.4",
+      "model": "DIODE VCF",
+      "params": [
+        {
+          "paramId": 0,
+          "value": 1.0
+        },
+        {
+          "paramId": 1,
+          "value": 0.0
+        },
+        {
+          "paramId": 2,
+          "value": 0.403501034
+        },
+        {
+          "paramId": 3,
+          "value": 0.0
+        },
+        {
+          "paramId": 4,
+          "value": 0.0
+        },
+        {
+          "paramId": 5,
+          "value": 1.0
+        }
+      ],
+      "gestaltID": 1,
+      "gradient": true,
+      "patina": false,
+      "patina_a_x": -331.737579,
+      "patina_a_y": -87.3777008,
+      "patina_b_x": -448.839539,
+      "patina_b_y": -153.303131,
+      "pos": [
+        17,
+        1
+      ]
+    },
+    {
+      "plugin": "Bogaudio",
+      "version": "0.6.13",
+      "model": "Bogaudio-LFO",
+      "params": [
+        {
+          "paramId": 0,
+          "value": -8.0
+        },
+        {
+          "paramId": 1,
+          "value": 0.0
+        },
+        {
+          "paramId": 2,
+          "value": 0.0
+        },
+        {
+          "paramId": 3,
+          "value": 0.0
+        },
+        {
+          "paramId": 4,
+          "value": 0.0
+        },
+        {
+          "paramId": 5,
+          "value": 1.0
+        }
+      ],
+      "pos": [
+        37,
+        0
+      ]
+    },
+    {
+      "plugin": "Bidoo",
+      "version": "0.6.26",
+      "model": "dTrOY",
+      "params": [
+        {
+          "paramId": 0,
+          "value": -2.0
+        },
+        {
+          "paramId": 1,
+          "value": 0.0
+        },
+        {
+          "paramId": 2,
+          "value": 0.0
+        },
+        {
+          "paramId": 3,
+          "value": 16.0
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        },
+        {
+          "paramId": 7,
+          "value": 12.0
+        },
+        {
+          "paramId": 5,
+          "value": 0.400600195
+        },
+        {
+          "paramId": 4,
+          "value": 0.332299858
+        },
+        {
+          "paramId": 8,
+          "value": 0.0
+        },
+        {
+          "paramId": 9,
+          "value": 0.0
+        },
+        {
+          "paramId": 10,
+          "value": 2.0
+        },
+        {
+          "paramId": 11,
+          "value": 0.100000001
+        },
+        {
+          "paramId": 63,
+          "value": 0.0
+        },
+        {
+          "paramId": 59,
+          "value": 0.0
+        },
+        {
+          "paramId": 60,
+          "value": 0.0
+        },
+        {
+          "paramId": 61,
+          "value": 0.0
+        },
+        {
+          "paramId": 62,
+          "value": 0.0
+        },
+        {
+          "paramId": 35,
+          "value": 2.40499878
+        },
+        {
+          "paramId": 19,
+          "value": 1.0
+        },
+        {
+          "paramId": 27,
+          "value": 3.0
+        },
+        {
+          "paramId": 43,
+          "value": 0.0
+        },
+        {
+          "paramId": 51,
+          "value": 0.0
+        },
+        {
+          "paramId": 36,
+          "value": 5.69000292
+        },
+        {
+          "paramId": 20,
+          "value": 1.0
+        },
+        {
+          "paramId": 28,
+          "value": 2.0
+        },
+        {
+          "paramId": 44,
+          "value": 0.0
+        },
+        {
+          "paramId": 52,
+          "value": 0.0
+        },
+        {
+          "paramId": 37,
+          "value": 6.56000185
+        },
+        {
+          "paramId": 21,
+          "value": 1.0
+        },
+        {
+          "paramId": 29,
+          "value": 2.0
+        },
+        {
+          "paramId": 45,
+          "value": 0.0
+        },
+        {
+          "paramId": 53,
+          "value": 0.0
+        },
+        {
+          "paramId": 38,
+          "value": 0.0
+        },
+        {
+          "paramId": 22,
+          "value": 1.0
+        },
+        {
+          "paramId": 30,
+          "value": 0.0
+        },
+        {
+          "paramId": 46,
+          "value": 0.0
+        },
+        {
+          "paramId": 54,
+          "value": 0.0
+        },
+        {
+          "paramId": 39,
+          "value": 1.29499972
+        },
+        {
+          "paramId": 23,
+          "value": 1.0
+        },
+        {
+          "paramId": 31,
+          "value": 2.0
+        },
+        {
+          "paramId": 47,
+          "value": 0.0
+        },
+        {
+          "paramId": 55,
+          "value": 0.0
+        },
+        {
+          "paramId": 40,
+          "value": 6.41000032
+        },
+        {
+          "paramId": 24,
+          "value": 1.0
+        },
+        {
+          "paramId": 32,
+          "value": 1.0
+        },
+        {
+          "paramId": 48,
+          "value": 0.0
+        },
+        {
+          "paramId": 56,
+          "value": 0.0
+        },
+        {
+          "paramId": 41,
+          "value": 0.290000319
+        },
+        {
+          "paramId": 25,
+          "value": 1.0
+        },
+        {
+          "paramId": 33,
+          "value": 2.0
+        },
+        {
+          "paramId": 49,
+          "value": 0.0
+        },
+        {
+          "paramId": 57,
+          "value": 0.0
+        },
+        {
+          "paramId": 42,
+          "value": 3.40999937
+        },
+        {
+          "paramId": 26,
+          "value": 1.0
+        },
+        {
+          "paramId": 34,
+          "value": 0.0
+        },
+        {
+          "paramId": 50,
+          "value": 0.0
+        },
+        {
+          "paramId": 58,
+          "value": 0.0
+        }
+      ],
+      "data": {
+        "running": true,
+        "playMode": 0,
+        "countMode": 1,
+        "stepOutputsMode": false,
+        "selectedPattern": 1,
+        "playedPattern": 1,
+        "trigs": [
+          [
+            false,
+            false
+          ],
+          [
+            false,
+            false
+          ],
+          [
+            false,
+            false
+          ],
+          [
+            false,
+            false
+          ],
+          [
+            false,
+            false
+          ],
+          [
+            false,
+            false
+          ],
+          [
+            false,
+            false
+          ],
+          [
+            false,
+            false
+          ]
+        ],
+        "pattern0": {
+          "playMode": 3,
+          "countMode": 0,
+          "numSteps": 8,
+          "rootNote": 0,
+          "scale": 0,
+          "gateTime": 0.5,
+          "slideTime": 0.823699951,
+          "sensitivity": 0.704350233,
+          "step0": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step1": {
+            "index": 1,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step2": {
+            "index": 2,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 4.9800005,
+            "type": 2
+          },
+          "step3": {
+            "index": 3,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step4": {
+            "index": 4,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step5": {
+            "index": 5,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step6": {
+            "index": 6,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step7": {
+            "index": 7,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step8": {
+            "index": 0,
+            "number": 0,
+            "skip": 1,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step9": {
+            "index": 1,
+            "number": 0,
+            "skip": 1,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step10": {
+            "index": 2,
+            "number": 0,
+            "skip": 1,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 4.9800005,
+            "type": 2
+          },
+          "step11": {
+            "index": 3,
+            "number": 0,
+            "skip": 1,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step12": {
+            "index": 4,
+            "number": 0,
+            "skip": 1,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step13": {
+            "index": 5,
+            "number": 0,
+            "skip": 1,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step14": {
+            "index": 6,
+            "number": 0,
+            "skip": 1,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step15": {
+            "index": 7,
+            "number": 0,
+            "skip": 1,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          }
+        },
+        "pattern1": {
+          "playMode": 0,
+          "countMode": 1,
+          "numSteps": 16,
+          "rootNote": 0,
+          "scale": 12,
+          "gateTime": 0.400600195,
+          "slideTime": 0.332299858,
+          "sensitivity": 0.100000001,
+          "step0": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 2.40499878,
+            "type": 3
+          },
+          "step1": {
+            "index": 1,
+            "number": 1,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 5.69000292,
+            "type": 2
+          },
+          "step2": {
+            "index": 2,
+            "number": 2,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 6.56000185,
+            "type": 2
+          },
+          "step3": {
+            "index": 3,
+            "number": 3,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 0.0,
+            "type": 0
+          },
+          "step4": {
+            "index": 4,
+            "number": 4,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 1.29499972,
+            "type": 2
+          },
+          "step5": {
+            "index": 5,
+            "number": 5,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 6.41000032,
+            "type": 1
+          },
+          "step6": {
+            "index": 6,
+            "number": 6,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 0.290000319,
+            "type": 2
+          },
+          "step7": {
+            "index": 7,
+            "number": 7,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.40999937,
+            "type": 0
+          },
+          "step8": {
+            "index": 0,
+            "number": 8,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 2.40499878,
+            "type": 3
+          },
+          "step9": {
+            "index": 1,
+            "number": 9,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 5.69000292,
+            "type": 2
+          },
+          "step10": {
+            "index": 2,
+            "number": 10,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 6.56000185,
+            "type": 2
+          },
+          "step11": {
+            "index": 3,
+            "number": 11,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 0.0,
+            "type": 0
+          },
+          "step12": {
+            "index": 4,
+            "number": 12,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 1.29499972,
+            "type": 2
+          },
+          "step13": {
+            "index": 5,
+            "number": 13,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 6.41000032,
+            "type": 1
+          },
+          "step14": {
+            "index": 6,
+            "number": 14,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 0.290000319,
+            "type": 2
+          },
+          "step15": {
+            "index": 7,
+            "number": 15,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.40999937,
+            "type": 0
+          }
+        },
+        "pattern2": {
+          "playMode": 0,
+          "countMode": 0,
+          "numSteps": 8,
+          "rootNote": 0,
+          "scale": 0,
+          "gateTime": 0.5,
+          "slideTime": 0.200000003,
+          "sensitivity": 1.0,
+          "step0": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step1": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step2": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step3": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step4": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step5": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step6": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step7": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step8": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step9": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step10": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step11": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step12": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step13": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step14": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step15": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          }
+        },
+        "pattern3": {
+          "playMode": 0,
+          "countMode": 0,
+          "numSteps": 8,
+          "rootNote": 0,
+          "scale": 0,
+          "gateTime": 0.5,
+          "slideTime": 0.200000003,
+          "sensitivity": 1.0,
+          "step0": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step1": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step2": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step3": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step4": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step5": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step6": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step7": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step8": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step9": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step10": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step11": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step12": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step13": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step14": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step15": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          }
+        },
+        "pattern4": {
+          "playMode": 0,
+          "countMode": 0,
+          "numSteps": 8,
+          "rootNote": 0,
+          "scale": 0,
+          "gateTime": 0.5,
+          "slideTime": 0.200000003,
+          "sensitivity": 1.0,
+          "step0": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step1": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step2": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step3": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step4": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step5": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step6": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step7": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step8": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step9": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step10": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step11": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step12": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step13": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step14": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step15": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          }
+        },
+        "pattern5": {
+          "playMode": 0,
+          "countMode": 0,
+          "numSteps": 8,
+          "rootNote": 0,
+          "scale": 0,
+          "gateTime": 0.5,
+          "slideTime": 0.200000003,
+          "sensitivity": 1.0,
+          "step0": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step1": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step2": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step3": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step4": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step5": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step6": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step7": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step8": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step9": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step10": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step11": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step12": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step13": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step14": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step15": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          }
+        },
+        "pattern6": {
+          "playMode": 0,
+          "countMode": 0,
+          "numSteps": 8,
+          "rootNote": 0,
+          "scale": 0,
+          "gateTime": 0.5,
+          "slideTime": 0.200000003,
+          "sensitivity": 1.0,
+          "step0": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step1": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step2": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step3": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step4": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step5": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step6": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step7": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step8": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step9": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step10": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step11": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step12": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step13": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step14": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step15": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          }
+        },
+        "pattern7": {
+          "playMode": 0,
+          "countMode": 0,
+          "numSteps": 8,
+          "rootNote": 0,
+          "scale": 0,
+          "gateTime": 0.5,
+          "slideTime": 0.200000003,
+          "sensitivity": 1.0,
+          "step0": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step1": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step2": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step3": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step4": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step5": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step6": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step7": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step8": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step9": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step10": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step11": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step12": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step13": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step14": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step15": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          }
+        },
+        "pattern8": {
+          "playMode": 0,
+          "countMode": 0,
+          "numSteps": 8,
+          "rootNote": 0,
+          "scale": 0,
+          "gateTime": 0.5,
+          "slideTime": 0.200000003,
+          "sensitivity": 1.0,
+          "step0": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step1": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step2": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step3": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step4": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step5": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step6": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step7": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step8": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step9": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step10": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step11": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step12": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step13": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step14": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step15": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          }
+        },
+        "pattern9": {
+          "playMode": 0,
+          "countMode": 0,
+          "numSteps": 8,
+          "rootNote": 0,
+          "scale": 0,
+          "gateTime": 0.5,
+          "slideTime": 0.200000003,
+          "sensitivity": 1.0,
+          "step0": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step1": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step2": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step3": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step4": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step5": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step6": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step7": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step8": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step9": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step10": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step11": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step12": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step13": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step14": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step15": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          }
+        },
+        "pattern10": {
+          "playMode": 0,
+          "countMode": 0,
+          "numSteps": 8,
+          "rootNote": 0,
+          "scale": 0,
+          "gateTime": 0.5,
+          "slideTime": 0.200000003,
+          "sensitivity": 1.0,
+          "step0": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step1": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step2": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step3": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step4": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step5": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step6": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step7": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step8": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step9": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step10": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step11": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step12": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step13": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step14": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step15": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          }
+        },
+        "pattern11": {
+          "playMode": 0,
+          "countMode": 0,
+          "numSteps": 8,
+          "rootNote": 0,
+          "scale": 0,
+          "gateTime": 0.5,
+          "slideTime": 0.200000003,
+          "sensitivity": 1.0,
+          "step0": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step1": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step2": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step3": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step4": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step5": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step6": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step7": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step8": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step9": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step10": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step11": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step12": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step13": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step14": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step15": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          }
+        },
+        "pattern12": {
+          "playMode": 0,
+          "countMode": 0,
+          "numSteps": 8,
+          "rootNote": 0,
+          "scale": 0,
+          "gateTime": 0.5,
+          "slideTime": 0.200000003,
+          "sensitivity": 1.0,
+          "step0": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step1": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step2": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step3": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step4": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step5": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step6": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step7": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step8": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step9": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step10": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step11": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step12": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step13": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step14": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step15": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          }
+        },
+        "pattern13": {
+          "playMode": 0,
+          "countMode": 0,
+          "numSteps": 8,
+          "rootNote": 0,
+          "scale": 0,
+          "gateTime": 0.5,
+          "slideTime": 0.200000003,
+          "sensitivity": 1.0,
+          "step0": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step1": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step2": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step3": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step4": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step5": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step6": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step7": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step8": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step9": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step10": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step11": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step12": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step13": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step14": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step15": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          }
+        },
+        "pattern14": {
+          "playMode": 0,
+          "countMode": 0,
+          "numSteps": 8,
+          "rootNote": 0,
+          "scale": 0,
+          "gateTime": 0.5,
+          "slideTime": 0.200000003,
+          "sensitivity": 1.0,
+          "step0": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step1": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step2": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step3": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step4": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step5": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step6": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step7": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step8": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step9": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step10": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step11": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step12": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step13": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step14": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step15": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          }
+        },
+        "pattern15": {
+          "playMode": 0,
+          "countMode": 0,
+          "numSteps": 8,
+          "rootNote": 0,
+          "scale": 0,
+          "gateTime": 0.5,
+          "slideTime": 0.200000003,
+          "sensitivity": 1.0,
+          "step0": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step1": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step2": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step3": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step4": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step5": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step6": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step7": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step8": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step9": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step10": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step11": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step12": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step13": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step14": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          },
+          "step15": {
+            "index": 0,
+            "number": 0,
+            "skip": 0,
+            "skipParam": 0,
+            "slide": 0,
+            "pulses": 1,
+            "pulsesParam": 1,
+            "pitch": 3.0,
+            "type": 2
+          }
+        }
+      },
+      "pos": [
+        30,
+        2
+      ]
+    },
+    {
+      "plugin": "AS",
+      "version": "0.6.13",
+      "model": "TriLFO",
+      "params": [
+        {
+          "paramId": 2,
+          "value": -1.0
+        },
+        {
+          "paramId": 0,
+          "value": 0.0
+        },
+        {
+          "paramId": 1,
+          "value": 1.0
+        },
+        {
+          "paramId": 5,
+          "value": -1.0
+        },
+        {
+          "paramId": 3,
+          "value": 1.0
+        },
+        {
+          "paramId": 4,
+          "value": 1.0
+        },
+        {
+          "paramId": 8,
+          "value": -1.0
+        },
+        {
+          "paramId": 6,
+          "value": 1.0
+        },
+        {
+          "paramId": 7,
+          "value": 1.0
+        }
+      ],
+      "pos": [
+        7,
+        2
+      ]
+    }
+  ],
+  "wires": [
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 2,
+      "outputId": 0,
+      "inputModuleId": 4,
+      "inputId": 1
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 6,
+      "outputId": 0,
+      "inputModuleId": 5,
+      "inputId": 0
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 6,
+      "outputId": 4,
+      "inputModuleId": 5,
+      "inputId": 1
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 6,
+      "outputId": 8,
+      "inputModuleId": 5,
+      "inputId": 2
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 4,
+      "outputId": 0,
+      "inputModuleId": 7,
+      "inputId": 0
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 8,
+      "outputId": 0,
+      "inputModuleId": 9,
+      "inputId": 0
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 8,
+      "outputId": 1,
+      "inputModuleId": 9,
+      "inputId": 1
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 6,
+      "outputId": 1,
+      "inputModuleId": 8,
+      "inputId": 2
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 5,
+      "outputId": 0,
+      "inputModuleId": 11,
+      "inputId": 0
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 7,
+      "outputId": 0,
+      "inputModuleId": 9,
+      "inputId": 3
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 6,
+      "outputId": 9,
+      "inputModuleId": 7,
+      "inputId": 4
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 3,
+      "outputId": 11,
+      "inputModuleId": 5,
+      "inputId": 4
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 9,
+      "outputId": 0,
+      "inputModuleId": 3,
+      "inputId": 29
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 9,
+      "outputId": 1,
+      "inputModuleId": 3,
+      "inputId": 61
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 7,
+      "outputId": 0,
+      "inputModuleId": 3,
+      "inputId": 1
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 3,
+      "outputId": 0,
+      "inputModuleId": 0,
+      "inputId": 0
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 3,
+      "outputId": 1,
+      "inputModuleId": 0,
+      "inputId": 1
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 1,
+      "outputId": 0,
+      "inputModuleId": 3,
+      "inputId": 0
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 1,
+      "outputId": 1,
+      "inputModuleId": 3,
+      "inputId": 32
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 10,
+      "outputId": 0,
+      "inputModuleId": 3,
+      "inputId": 3
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 6,
+      "outputId": 5,
+      "inputModuleId": 8,
+      "inputId": 7
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 11,
+      "outputId": 0,
+      "inputModuleId": 8,
+      "inputId": 1
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 11,
+      "outputId": 0,
+      "inputModuleId": 8,
+      "inputId": 0
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 6,
+      "outputId": 10,
+      "inputModuleId": 11,
+      "inputId": 3
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 13,
+      "outputId": 1,
+      "inputModuleId": 10,
+      "inputId": 0
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 13,
+      "outputId": 0,
+      "inputModuleId": 10,
+      "inputId": 2
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 2,
+      "outputId": 3,
+      "inputModuleId": 13,
+      "inputId": 1
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 14,
+      "outputId": 0,
+      "inputModuleId": 13,
+      "inputId": 7
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 14,
+      "outputId": 4,
+      "inputModuleId": 13,
+      "inputId": 5
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 14,
+      "outputId": 9,
+      "inputModuleId": 10,
+      "inputId": 12
+    }
+  ]
+}

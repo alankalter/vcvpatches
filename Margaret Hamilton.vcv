@@ -1,0 +1,5776 @@
+{
+  "version": "1.1.2",
+  "modules": [
+    {
+      "id": 1,
+      "plugin": "Core",
+      "version": "1.1.2",
+      "model": "AudioInterface",
+      "params": [],
+      "leftModuleId": 58,
+      "rightModuleId": 83,
+      "data": {
+        "audio": {
+          "driver": 6,
+          "deviceName": "Headset Earphone (Sennheiser SC60 for Lync)",
+          "offset": 0,
+          "maxChannels": 8,
+          "sampleRate": 44100,
+          "blockSize": 256
+        }
+      },
+      "pos": [
+        160,
+        0
+      ]
+    },
+    {
+      "id": 6,
+      "plugin": "Fundamental",
+      "version": "1.2.1",
+      "model": "ADSR",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.680499971
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.418500155
+        }
+      ],
+      "rightModuleId": 57,
+      "pos": [
+        86,
+        0
+      ]
+    },
+    {
+      "id": 7,
+      "plugin": "Fundamental",
+      "version": "1.2.1",
+      "model": "Scope",
+      "params": [
+        {
+          "id": 0,
+          "value": 4.0
+        },
+        {
+          "id": 1,
+          "value": 8.94069672e-8
+        },
+        {
+          "id": 2,
+          "value": 5.0
+        },
+        {
+          "id": 3,
+          "value": -0.120000064
+        },
+        {
+          "id": 4,
+          "value": 15.4749985
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": -0.450000167
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 91,
+      "data": {
+        "lissajous": 1,
+        "external": 1
+      },
+      "pos": [
+        152,
+        1
+      ]
+    },
+    {
+      "id": 57,
+      "plugin": "Bogaudio",
+      "version": "1.1.22",
+      "model": "Bogaudio-Noise",
+      "params": [],
+      "leftModuleId": 6,
+      "rightModuleId": 59,
+      "pos": [
+        94,
+        0
+      ]
+    },
+    {
+      "id": 58,
+      "plugin": "mscHack",
+      "version": "1.0.2",
+      "model": "Mix_16_4_4",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.395499945
+        },
+        {
+          "id": 1,
+          "value": 0.435999662
+        },
+        {
+          "id": 2,
+          "value": 0.8919999
+        },
+        {
+          "id": 3,
+          "value": 0.681000292
+        },
+        {
+          "id": 4,
+          "value": 1.0
+        },
+        {
+          "id": 5,
+          "value": 1.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 0.0
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        },
+        {
+          "id": 17,
+          "value": 0.651000261
+        },
+        {
+          "id": 18,
+          "value": 0.0
+        },
+        {
+          "id": 19,
+          "value": 0.0
+        },
+        {
+          "id": 20,
+          "value": 0.0
+        },
+        {
+          "id": 21,
+          "value": 0.0
+        },
+        {
+          "id": 22,
+          "value": 0.0
+        },
+        {
+          "id": 23,
+          "value": 0.0
+        },
+        {
+          "id": 24,
+          "value": 0.0
+        },
+        {
+          "id": 25,
+          "value": 0.0
+        },
+        {
+          "id": 26,
+          "value": 0.0
+        },
+        {
+          "id": 27,
+          "value": 0.0
+        },
+        {
+          "id": 28,
+          "value": -0.180000037
+        },
+        {
+          "id": 29,
+          "value": 0.0240000021
+        },
+        {
+          "id": 30,
+          "value": 0.0
+        },
+        {
+          "id": 31,
+          "value": 0.0
+        },
+        {
+          "id": 32,
+          "value": 0.0
+        },
+        {
+          "id": 33,
+          "value": 0.0
+        },
+        {
+          "id": 34,
+          "value": 0.0
+        },
+        {
+          "id": 35,
+          "value": 0.0
+        },
+        {
+          "id": 36,
+          "value": 0.0
+        },
+        {
+          "id": 37,
+          "value": 0.0
+        },
+        {
+          "id": 38,
+          "value": 0.0
+        },
+        {
+          "id": 39,
+          "value": 0.0
+        },
+        {
+          "id": 40,
+          "value": 0.0
+        },
+        {
+          "id": 41,
+          "value": 0.0
+        },
+        {
+          "id": 42,
+          "value": 0.0
+        },
+        {
+          "id": 43,
+          "value": 0.0
+        },
+        {
+          "id": 44,
+          "value": 0.0
+        },
+        {
+          "id": 45,
+          "value": 0.0
+        },
+        {
+          "id": 46,
+          "value": 0.0
+        },
+        {
+          "id": 47,
+          "value": 0.0
+        },
+        {
+          "id": 48,
+          "value": 0.0
+        },
+        {
+          "id": 49,
+          "value": 0.5
+        },
+        {
+          "id": 50,
+          "value": 0.5
+        },
+        {
+          "id": 51,
+          "value": 0.581499994
+        },
+        {
+          "id": 52,
+          "value": 0.632000506
+        },
+        {
+          "id": 53,
+          "value": 0.608000159
+        },
+        {
+          "id": 54,
+          "value": 0.5
+        },
+        {
+          "id": 55,
+          "value": 0.5
+        },
+        {
+          "id": 56,
+          "value": 0.5
+        },
+        {
+          "id": 57,
+          "value": 0.5
+        },
+        {
+          "id": 58,
+          "value": 0.5
+        },
+        {
+          "id": 59,
+          "value": 0.5
+        },
+        {
+          "id": 60,
+          "value": 0.5
+        },
+        {
+          "id": 61,
+          "value": 0.5
+        },
+        {
+          "id": 62,
+          "value": 0.5
+        },
+        {
+          "id": 63,
+          "value": 0.5
+        },
+        {
+          "id": 64,
+          "value": 0.5
+        },
+        {
+          "id": 65,
+          "value": 0.5
+        },
+        {
+          "id": 66,
+          "value": 0.5
+        },
+        {
+          "id": 67,
+          "value": 0.5
+        },
+        {
+          "id": 68,
+          "value": 0.5
+        },
+        {
+          "id": 69,
+          "value": 0.5
+        },
+        {
+          "id": 70,
+          "value": 0.5
+        },
+        {
+          "id": 71,
+          "value": 0.5
+        },
+        {
+          "id": 72,
+          "value": 0.5
+        },
+        {
+          "id": 73,
+          "value": 0.5
+        },
+        {
+          "id": 74,
+          "value": 0.5
+        },
+        {
+          "id": 75,
+          "value": 0.232999787
+        },
+        {
+          "id": 76,
+          "value": 0.5
+        },
+        {
+          "id": 77,
+          "value": 0.5
+        },
+        {
+          "id": 78,
+          "value": 0.5
+        },
+        {
+          "id": 79,
+          "value": 0.5
+        },
+        {
+          "id": 80,
+          "value": 0.5
+        },
+        {
+          "id": 81,
+          "value": 0.5
+        },
+        {
+          "id": 82,
+          "value": 0.5
+        },
+        {
+          "id": 83,
+          "value": 0.5
+        },
+        {
+          "id": 84,
+          "value": 0.5
+        },
+        {
+          "id": 85,
+          "value": 0.5
+        },
+        {
+          "id": 86,
+          "value": 0.5
+        },
+        {
+          "id": 87,
+          "value": 0.5
+        },
+        {
+          "id": 88,
+          "value": 0.5
+        },
+        {
+          "id": 89,
+          "value": 0.5
+        },
+        {
+          "id": 90,
+          "value": 0.5
+        },
+        {
+          "id": 91,
+          "value": 0.5
+        },
+        {
+          "id": 92,
+          "value": 0.5
+        },
+        {
+          "id": 93,
+          "value": 0.5
+        },
+        {
+          "id": 94,
+          "value": 0.5
+        },
+        {
+          "id": 95,
+          "value": 0.5
+        },
+        {
+          "id": 96,
+          "value": 0.5
+        },
+        {
+          "id": 97,
+          "value": 0.0
+        },
+        {
+          "id": 98,
+          "value": 0.5
+        },
+        {
+          "id": 99,
+          "value": 0.637499809
+        },
+        {
+          "id": 100,
+          "value": 0.5
+        },
+        {
+          "id": 101,
+          "value": 0.5
+        },
+        {
+          "id": 102,
+          "value": 0.5
+        },
+        {
+          "id": 103,
+          "value": 0.5
+        },
+        {
+          "id": 104,
+          "value": 0.5
+        },
+        {
+          "id": 105,
+          "value": 0.5
+        },
+        {
+          "id": 106,
+          "value": 0.5
+        },
+        {
+          "id": 107,
+          "value": 0.5
+        },
+        {
+          "id": 108,
+          "value": 0.5
+        },
+        {
+          "id": 109,
+          "value": 0.5
+        },
+        {
+          "id": 110,
+          "value": 0.5
+        },
+        {
+          "id": 111,
+          "value": 0.5
+        },
+        {
+          "id": 112,
+          "value": 0.5
+        },
+        {
+          "id": 113,
+          "value": 0.5
+        },
+        {
+          "id": 114,
+          "value": 0.5
+        },
+        {
+          "id": 115,
+          "value": 0.5
+        },
+        {
+          "id": 116,
+          "value": 0.5
+        },
+        {
+          "id": 117,
+          "value": 0.5
+        },
+        {
+          "id": 118,
+          "value": 0.5
+        },
+        {
+          "id": 119,
+          "value": 0.5
+        },
+        {
+          "id": 120,
+          "value": 0.5
+        },
+        {
+          "id": 121,
+          "value": 0.0
+        },
+        {
+          "id": 122,
+          "value": 0.0
+        },
+        {
+          "id": 123,
+          "value": 0.0
+        },
+        {
+          "id": 124,
+          "value": 0.0
+        },
+        {
+          "id": 125,
+          "value": 0.962500274
+        },
+        {
+          "id": 126,
+          "value": 0.0
+        },
+        {
+          "id": 127,
+          "value": 0.0
+        },
+        {
+          "id": 128,
+          "value": 0.0
+        },
+        {
+          "id": 129,
+          "value": 0.0
+        },
+        {
+          "id": 130,
+          "value": 0.0
+        },
+        {
+          "id": 131,
+          "value": 0.0
+        },
+        {
+          "id": 132,
+          "value": 0.0
+        },
+        {
+          "id": 133,
+          "value": 0.0
+        },
+        {
+          "id": 134,
+          "value": 0.0
+        },
+        {
+          "id": 135,
+          "value": 0.0
+        },
+        {
+          "id": 136,
+          "value": 0.0
+        },
+        {
+          "id": 137,
+          "value": 0.0
+        },
+        {
+          "id": 138,
+          "value": 0.0
+        },
+        {
+          "id": 139,
+          "value": 0.0
+        },
+        {
+          "id": 140,
+          "value": 0.0
+        },
+        {
+          "id": 141,
+          "value": 0.0
+        },
+        {
+          "id": 142,
+          "value": 0.0
+        },
+        {
+          "id": 143,
+          "value": 0.0
+        },
+        {
+          "id": 144,
+          "value": 0.0
+        },
+        {
+          "id": 145,
+          "value": 0.0
+        },
+        {
+          "id": 146,
+          "value": 0.0
+        },
+        {
+          "id": 147,
+          "value": 0.0
+        },
+        {
+          "id": 148,
+          "value": 0.0
+        },
+        {
+          "id": 149,
+          "value": 0.0
+        },
+        {
+          "id": 150,
+          "value": 0.0
+        },
+        {
+          "id": 151,
+          "value": 0.0
+        },
+        {
+          "id": 152,
+          "value": 0.0
+        },
+        {
+          "id": 153,
+          "value": 0.0
+        },
+        {
+          "id": 154,
+          "value": 0.0
+        },
+        {
+          "id": 155,
+          "value": 0.0
+        },
+        {
+          "id": 156,
+          "value": 0.0
+        },
+        {
+          "id": 157,
+          "value": 0.0
+        },
+        {
+          "id": 158,
+          "value": 0.0
+        },
+        {
+          "id": 159,
+          "value": 0.0
+        },
+        {
+          "id": 160,
+          "value": 0.0
+        },
+        {
+          "id": 161,
+          "value": 0.0
+        },
+        {
+          "id": 162,
+          "value": 0.0
+        },
+        {
+          "id": 163,
+          "value": 0.0
+        },
+        {
+          "id": 164,
+          "value": 0.0
+        },
+        {
+          "id": 165,
+          "value": 0.0
+        },
+        {
+          "id": 166,
+          "value": 0.0
+        },
+        {
+          "id": 167,
+          "value": 0.0
+        },
+        {
+          "id": 168,
+          "value": 0.0
+        },
+        {
+          "id": 169,
+          "value": 0.0
+        },
+        {
+          "id": 170,
+          "value": 0.0
+        },
+        {
+          "id": 171,
+          "value": 0.0
+        },
+        {
+          "id": 172,
+          "value": 0.0
+        },
+        {
+          "id": 173,
+          "value": 0.0
+        },
+        {
+          "id": 174,
+          "value": 0.0
+        },
+        {
+          "id": 175,
+          "value": 0.0
+        },
+        {
+          "id": 176,
+          "value": 0.0
+        },
+        {
+          "id": 177,
+          "value": 0.0
+        },
+        {
+          "id": 178,
+          "value": 0.0
+        },
+        {
+          "id": 179,
+          "value": 0.0
+        },
+        {
+          "id": 180,
+          "value": 0.0
+        },
+        {
+          "id": 181,
+          "value": 0.0
+        },
+        {
+          "id": 182,
+          "value": 0.0
+        },
+        {
+          "id": 183,
+          "value": 0.0
+        },
+        {
+          "id": 184,
+          "value": 0.0
+        },
+        {
+          "id": 185,
+          "value": 0.0
+        },
+        {
+          "id": 186,
+          "value": 0.0
+        },
+        {
+          "id": 187,
+          "value": 0.0
+        },
+        {
+          "id": 188,
+          "value": 0.0
+        },
+        {
+          "id": 189,
+          "value": 0.0
+        },
+        {
+          "id": 190,
+          "value": 0.0
+        },
+        {
+          "id": 191,
+          "value": 0.0
+        },
+        {
+          "id": 192,
+          "value": 0.0
+        },
+        {
+          "id": 193,
+          "value": 0.0
+        },
+        {
+          "id": 194,
+          "value": 0.0
+        },
+        {
+          "id": 195,
+          "value": 0.0
+        },
+        {
+          "id": 196,
+          "value": 0.0
+        },
+        {
+          "id": 197,
+          "value": 0.0
+        },
+        {
+          "id": 198,
+          "value": 0.0
+        },
+        {
+          "id": 199,
+          "value": 0.0
+        },
+        {
+          "id": 200,
+          "value": 0.0
+        },
+        {
+          "id": 201,
+          "value": 1.0
+        },
+        {
+          "id": 202,
+          "value": 0.0
+        },
+        {
+          "id": 203,
+          "value": 0.0
+        },
+        {
+          "id": 204,
+          "value": 0.0
+        }
+      ],
+      "rightModuleId": 1,
+      "data": {
+        "m_bMuteStates": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        "m_bSoloStates": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        "m_iRouteGroup": [
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4
+        ],
+        "m_bGroupPreMute": [
+          true
+        ],
+        "m_bGainLevelx2": [
+          false
+        ],
+        "m_bPreFader": [
+          false,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        "m_bAuxIgnoreSolo": [
+          false
+        ]
+      },
+      "pos": [
+        115,
+        0
+      ]
+    },
+    {
+      "id": 59,
+      "plugin": "LindenbergResearch",
+      "version": "1.0.0",
+      "model": "MS20_VCF",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.740499318
+        },
+        {
+          "id": 1,
+          "value": 0.568500102
+        },
+        {
+          "id": 2,
+          "value": 0.428999811
+        },
+        {
+          "id": 3,
+          "value": 0.535600424
+        },
+        {
+          "id": 4,
+          "value": -0.617299914
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 57,
+      "rightModuleId": 61,
+      "gestaltID": 1,
+      "gradient": true,
+      "patina": false,
+      "patina_a_x": -674.359802,
+      "patina_a_y": -261.738617,
+      "patina_b_x": -159.2323,
+      "patina_b_y": -89.8076706,
+      "pos": [
+        97,
+        0
+      ]
+    },
+    {
+      "id": 61,
+      "plugin": "Bogaudio",
+      "version": "1.1.22",
+      "model": "Bogaudio-VCAmp",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.908499956
+        }
+      ],
+      "leftModuleId": 59,
+      "pos": [
+        109,
+        0
+      ]
+    },
+    {
+      "id": 62,
+      "plugin": "DrumKit",
+      "version": "1.1.0",
+      "model": "Sequencer",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 0.0
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        },
+        {
+          "id": 17,
+          "value": 0.0
+        },
+        {
+          "id": 18,
+          "value": 0.0
+        },
+        {
+          "id": 19,
+          "value": 0.0
+        },
+        {
+          "id": 20,
+          "value": 0.0
+        },
+        {
+          "id": 21,
+          "value": 0.0
+        },
+        {
+          "id": 22,
+          "value": 0.0
+        },
+        {
+          "id": 23,
+          "value": 0.0
+        },
+        {
+          "id": 24,
+          "value": 0.0
+        },
+        {
+          "id": 25,
+          "value": 0.0
+        },
+        {
+          "id": 26,
+          "value": 0.0
+        },
+        {
+          "id": 27,
+          "value": 0.0
+        },
+        {
+          "id": 28,
+          "value": 0.0
+        },
+        {
+          "id": 29,
+          "value": 0.0
+        },
+        {
+          "id": 30,
+          "value": 0.0
+        },
+        {
+          "id": 31,
+          "value": 0.0
+        },
+        {
+          "id": 32,
+          "value": 0.0
+        },
+        {
+          "id": 33,
+          "value": 0.0
+        },
+        {
+          "id": 34,
+          "value": 0.0
+        },
+        {
+          "id": 35,
+          "value": 0.0
+        },
+        {
+          "id": 36,
+          "value": 0.0
+        },
+        {
+          "id": 37,
+          "value": 0.0
+        },
+        {
+          "id": 38,
+          "value": 0.0
+        },
+        {
+          "id": 39,
+          "value": 0.0
+        },
+        {
+          "id": 40,
+          "value": 0.0
+        },
+        {
+          "id": 41,
+          "value": 0.0
+        },
+        {
+          "id": 42,
+          "value": 0.0
+        },
+        {
+          "id": 43,
+          "value": 0.0
+        },
+        {
+          "id": 44,
+          "value": 0.0
+        },
+        {
+          "id": 45,
+          "value": 0.0
+        },
+        {
+          "id": 46,
+          "value": 0.0
+        },
+        {
+          "id": 47,
+          "value": 0.0
+        },
+        {
+          "id": 48,
+          "value": 0.0
+        },
+        {
+          "id": 49,
+          "value": 0.0
+        },
+        {
+          "id": 50,
+          "value": 0.0
+        },
+        {
+          "id": 51,
+          "value": 0.0
+        },
+        {
+          "id": 52,
+          "value": 0.0
+        },
+        {
+          "id": 53,
+          "value": 0.0
+        },
+        {
+          "id": 54,
+          "value": 0.0
+        },
+        {
+          "id": 55,
+          "value": 0.0
+        },
+        {
+          "id": 56,
+          "value": 0.0
+        },
+        {
+          "id": 57,
+          "value": 0.0
+        },
+        {
+          "id": 58,
+          "value": 0.0
+        },
+        {
+          "id": 59,
+          "value": 0.0
+        },
+        {
+          "id": 60,
+          "value": 0.0
+        },
+        {
+          "id": 61,
+          "value": 0.0
+        },
+        {
+          "id": 62,
+          "value": 0.0
+        },
+        {
+          "id": 63,
+          "value": 0.0
+        },
+        {
+          "id": 64,
+          "value": 0.0
+        },
+        {
+          "id": 65,
+          "value": 0.0
+        },
+        {
+          "id": 66,
+          "value": 0.0
+        },
+        {
+          "id": 67,
+          "value": 0.0
+        },
+        {
+          "id": 68,
+          "value": 0.0
+        },
+        {
+          "id": 69,
+          "value": 0.0
+        },
+        {
+          "id": 70,
+          "value": 0.0
+        },
+        {
+          "id": 71,
+          "value": 0.0
+        },
+        {
+          "id": 72,
+          "value": 0.0
+        },
+        {
+          "id": 73,
+          "value": 0.0
+        },
+        {
+          "id": 74,
+          "value": 0.0
+        },
+        {
+          "id": 75,
+          "value": 0.0
+        },
+        {
+          "id": 76,
+          "value": 0.0
+        },
+        {
+          "id": 77,
+          "value": 0.0
+        },
+        {
+          "id": 78,
+          "value": 0.0
+        },
+        {
+          "id": 79,
+          "value": 0.0
+        },
+        {
+          "id": 80,
+          "value": 1.0
+        },
+        {
+          "id": 81,
+          "value": 1.0
+        },
+        {
+          "id": 82,
+          "value": 1.0
+        },
+        {
+          "id": 83,
+          "value": 1.0
+        },
+        {
+          "id": 84,
+          "value": 1.0
+        },
+        {
+          "id": 85,
+          "value": 1.0
+        },
+        {
+          "id": 86,
+          "value": 1.0
+        },
+        {
+          "id": 87,
+          "value": 1.0
+        },
+        {
+          "id": 88,
+          "value": 1.0
+        },
+        {
+          "id": 89,
+          "value": 1.0
+        },
+        {
+          "id": 90,
+          "value": 1.0
+        },
+        {
+          "id": 91,
+          "value": 1.0
+        },
+        {
+          "id": 92,
+          "value": 1.0
+        },
+        {
+          "id": 93,
+          "value": 1.0
+        },
+        {
+          "id": 94,
+          "value": 1.0
+        },
+        {
+          "id": 95,
+          "value": 1.0
+        },
+        {
+          "id": 96,
+          "value": 0.0
+        },
+        {
+          "id": 97,
+          "value": 0.0
+        },
+        {
+          "id": 98,
+          "value": 0.0
+        },
+        {
+          "id": 99,
+          "value": 0.0
+        },
+        {
+          "id": 100,
+          "value": 0.0
+        },
+        {
+          "id": 101,
+          "value": 0.0
+        },
+        {
+          "id": 102,
+          "value": 0.0
+        },
+        {
+          "id": 103,
+          "value": 0.0
+        },
+        {
+          "id": 104,
+          "value": 0.0
+        },
+        {
+          "id": 105,
+          "value": 0.0
+        },
+        {
+          "id": 106,
+          "value": 0.0
+        },
+        {
+          "id": 107,
+          "value": 0.0
+        },
+        {
+          "id": 108,
+          "value": 0.0
+        },
+        {
+          "id": 109,
+          "value": 0.0
+        },
+        {
+          "id": 110,
+          "value": 0.0
+        },
+        {
+          "id": 111,
+          "value": 0.0
+        },
+        {
+          "id": 112,
+          "value": 1.0
+        },
+        {
+          "id": 113,
+          "value": 0.0
+        },
+        {
+          "id": 114,
+          "value": 0.0
+        },
+        {
+          "id": 115,
+          "value": 0.0
+        },
+        {
+          "id": 116,
+          "value": 1.0
+        },
+        {
+          "id": 117,
+          "value": 0.0
+        },
+        {
+          "id": 118,
+          "value": 0.0
+        },
+        {
+          "id": 119,
+          "value": 0.0
+        },
+        {
+          "id": 120,
+          "value": 1.0
+        },
+        {
+          "id": 121,
+          "value": 0.0
+        },
+        {
+          "id": 122,
+          "value": 0.0
+        },
+        {
+          "id": 123,
+          "value": 0.0
+        },
+        {
+          "id": 124,
+          "value": 1.0
+        },
+        {
+          "id": 125,
+          "value": 0.0
+        },
+        {
+          "id": 126,
+          "value": 0.0
+        },
+        {
+          "id": 127,
+          "value": 0.0
+        },
+        {
+          "id": 128,
+          "value": 0.0
+        },
+        {
+          "id": 129,
+          "value": 0.0
+        },
+        {
+          "id": 130,
+          "value": 0.0
+        },
+        {
+          "id": 131,
+          "value": 5.05000019
+        },
+        {
+          "id": 132,
+          "value": 0.0
+        },
+        {
+          "id": 133,
+          "value": 0.0
+        },
+        {
+          "id": 134,
+          "value": 0.0
+        },
+        {
+          "id": 135,
+          "value": 0.0
+        },
+        {
+          "id": 136,
+          "value": 0.0
+        },
+        {
+          "id": 137,
+          "value": 0.0
+        },
+        {
+          "id": 138,
+          "value": 0.0
+        },
+        {
+          "id": 139,
+          "value": 0.0
+        },
+        {
+          "id": 140,
+          "value": 0.0
+        },
+        {
+          "id": 141,
+          "value": 0.0
+        },
+        {
+          "id": 142,
+          "value": 0.0
+        },
+        {
+          "id": 143,
+          "value": 0.0
+        },
+        {
+          "id": 144,
+          "value": 0.0
+        },
+        {
+          "id": 145,
+          "value": 0.0
+        },
+        {
+          "id": 146,
+          "value": 0.0
+        },
+        {
+          "id": 147,
+          "value": 0.0
+        },
+        {
+          "id": 148,
+          "value": 0.0
+        }
+      ],
+      "rightModuleId": 78,
+      "data": {
+        "running": true,
+        "cycling": true,
+        "currentPlay": 1,
+        "tracks": [
+          [
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ]
+          ],
+          [
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              true,
+              true,
+              true,
+              true,
+              true,
+              true,
+              true,
+              true
+            ],
+            [
+              true,
+              true,
+              true,
+              true,
+              true,
+              true,
+              true,
+              true
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              true,
+              false,
+              false,
+              false,
+              true,
+              false,
+              false,
+              false
+            ],
+            [
+              true,
+              false,
+              false,
+              false,
+              true,
+              false,
+              false,
+              false
+            ]
+          ],
+          [
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ]
+          ],
+          [
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ]
+          ],
+          [
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ]
+          ],
+          [
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ]
+          ],
+          [
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ]
+          ],
+          [
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ]
+          ],
+          [
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ]
+          ],
+          [
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ]
+          ],
+          [
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ]
+          ],
+          [
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ]
+          ],
+          [
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ]
+          ],
+          [
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ]
+          ],
+          [
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ]
+          ],
+          [
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ]
+          ],
+          [
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ]
+          ]
+        ],
+        "programs": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "pos": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": 63,
+      "plugin": "JW-Modules",
+      "version": "1.0.7",
+      "model": "SimpleClock",
+      "params": [
+        {
+          "id": 0,
+          "value": 2.5119977
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": -1.65199935
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        }
+      ],
+      "rightModuleId": 69,
+      "data": {
+        "running": true
+      },
+      "pos": [
+        23,
+        0
+      ]
+    },
+    {
+      "id": 65,
+      "plugin": "VultModulesFree",
+      "version": "1.3.0",
+      "model": "Basal",
+      "params": [
+        {
+          "id": 0,
+          "value": -0.474000067
+        },
+        {
+          "id": 1,
+          "value": -0.435000062
+        },
+        {
+          "id": 2,
+          "value": 0.226000085
+        },
+        {
+          "id": 3,
+          "value": 0.42899999
+        },
+        {
+          "id": 4,
+          "value": 0.538500309
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 66,
+      "rightModuleId": 68,
+      "pos": [
+        43,
+        0
+      ]
+    },
+    {
+      "id": 66,
+      "plugin": "VultModulesFree",
+      "version": "1.3.0",
+      "model": "Spank",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.225499749
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.138000026
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 69,
+      "rightModuleId": 65,
+      "pos": [
+        33,
+        0
+      ]
+    },
+    {
+      "id": 67,
+      "plugin": "RJModules",
+      "version": "1.0.1",
+      "model": "Button",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "pos": [
+        68,
+        0
+      ]
+    },
+    {
+      "id": 68,
+      "plugin": "Bogaudio",
+      "version": "1.1.22",
+      "model": "Bogaudio-Offset",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0640000254
+        }
+      ],
+      "leftModuleId": 65,
+      "rightModuleId": 70,
+      "data": {
+        "disableOutputLimit": false
+      },
+      "pos": [
+        49,
+        0
+      ]
+    },
+    {
+      "id": 69,
+      "plugin": "AS",
+      "version": "1.0.3",
+      "model": "SuperDriveFx",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.622500122
+        },
+        {
+          "id": 1,
+          "value": 1.0
+        },
+        {
+          "id": 2,
+          "value": 0.163500026
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 63,
+      "rightModuleId": 66,
+      "data": {
+        "as_FxBypass": [
+          false
+        ]
+      },
+      "pos": [
+        27,
+        0
+      ]
+    },
+    {
+      "id": 70,
+      "plugin": "RJModules",
+      "version": "1.0.1",
+      "model": "RangeLFO",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": -1.50399983
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.5
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": -7.06799889
+        },
+        {
+          "id": 8,
+          "value": 3.79200101
+        }
+      ],
+      "leftModuleId": 68,
+      "pos": [
+        52,
+        0
+      ]
+    },
+    {
+      "id": 73,
+      "plugin": "RJModules",
+      "version": "1.0.1",
+      "model": "TwinLFO",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 2.30000019
+        },
+        {
+          "id": 3,
+          "value": 2.25199986
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.249999925
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        }
+      ],
+      "pos": [
+        88,
+        1
+      ]
+    },
+    {
+      "id": 74,
+      "plugin": "RJModules",
+      "version": "1.0.1",
+      "model": "RangeLFO",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": -1.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.5
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": -12.0
+        },
+        {
+          "id": 8,
+          "value": 12.0
+        }
+      ],
+      "leftModuleId": 85,
+      "pos": [
+        113,
+        1
+      ]
+    },
+    {
+      "id": 75,
+      "plugin": "squinkylabs-plug1",
+      "version": "1.0.4",
+      "model": "squinkylabs-ev3",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.250000149
+        },
+        {
+          "id": 1,
+          "value": 0.935500205
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": -3.0
+        },
+        {
+          "id": 4,
+          "value": -5.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.167999983
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 3.0
+        },
+        {
+          "id": 9,
+          "value": -0.957999945
+        },
+        {
+          "id": 10,
+          "value": 1.0
+        },
+        {
+          "id": 11,
+          "value": -1.0
+        },
+        {
+          "id": 12,
+          "value": -10.0
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 1.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 1.0
+        },
+        {
+          "id": 17,
+          "value": 0.462000012
+        },
+        {
+          "id": 18,
+          "value": -0.0380001217
+        },
+        {
+          "id": 19,
+          "value": 0.0
+        },
+        {
+          "id": 20,
+          "value": 0.0
+        },
+        {
+          "id": 21,
+          "value": 0.0
+        },
+        {
+          "id": 22,
+          "value": 0.0
+        },
+        {
+          "id": 23,
+          "value": 0.0
+        },
+        {
+          "id": 24,
+          "value": 0.0
+        },
+        {
+          "id": 25,
+          "value": 0.0
+        },
+        {
+          "id": 26,
+          "value": 0.0
+        }
+      ],
+      "rightModuleId": 77,
+      "pos": [
+        43,
+        1
+      ]
+    },
+    {
+      "id": 77,
+      "plugin": "Valley",
+      "version": "1.0.1",
+      "model": "Feline",
+      "params": [
+        {
+          "id": 0,
+          "value": 5.8600049
+        },
+        {
+          "id": 1,
+          "value": 4.30000019
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.213999987
+        },
+        {
+          "id": 5,
+          "value": 0.375999957
+        },
+        {
+          "id": 6,
+          "value": 0.130500004
+        },
+        {
+          "id": 7,
+          "value": 1.0
+        },
+        {
+          "id": 8,
+          "value": 0.282000035
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 0.284999967
+        },
+        {
+          "id": 13,
+          "value": 0.148000002
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 75,
+      "rightModuleId": 80,
+      "data": {
+        "panelStyle": 0
+      },
+      "pos": [
+        61,
+        1
+      ]
+    },
+    {
+      "id": 78,
+      "plugin": "AS",
+      "version": "1.0.3",
+      "model": "TriLFO",
+      "params": [
+        {
+          "id": 0,
+          "value": 1.0
+        },
+        {
+          "id": 1,
+          "value": 1.0
+        },
+        {
+          "id": 2,
+          "value": -3.78099656
+        },
+        {
+          "id": 3,
+          "value": 1.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": -2.67399788
+        },
+        {
+          "id": 6,
+          "value": 1.0
+        },
+        {
+          "id": 7,
+          "value": 1.0
+        },
+        {
+          "id": 8,
+          "value": -4.88799477
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 62,
+      "pos": [
+        32,
+        1
+      ]
+    },
+    {
+      "id": 80,
+      "plugin": "LindenbergResearch",
+      "version": "1.0.0",
+      "model": "DIODE_VCF",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.446999997
+        },
+        {
+          "id": 1,
+          "value": 0.749500036
+        },
+        {
+          "id": 2,
+          "value": 0.275999993
+        },
+        {
+          "id": 3,
+          "value": 0.550799847
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.751600325
+        }
+      ],
+      "leftModuleId": 77,
+      "gestaltID": 1,
+      "gradient": true,
+      "patina": true,
+      "patina_a_x": -297.163208,
+      "patina_a_y": -186.771317,
+      "patina_b_x": -278.562897,
+      "patina_b_y": -268.827423,
+      "pos": [
+        69,
+        1
+      ]
+    },
+    {
+      "id": 83,
+      "plugin": "NYSTHI",
+      "version": "1.0.3",
+      "model": "DYNAMO",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0399220064
+        },
+        {
+          "id": 1,
+          "value": 0.5
+        },
+        {
+          "id": 2,
+          "value": 0.099053517
+        },
+        {
+          "id": 3,
+          "value": 20.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.195625007
+        },
+        {
+          "id": 6,
+          "value": 1.1288743
+        },
+        {
+          "id": 7,
+          "value": 2.10889077
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1,
+      "data": {
+        "m_bypass": false,
+        "m_show_info": false,
+        "m_limiting": false,
+        "m_ducking": false,
+        "m_brickwallducking": false
+      },
+      "pos": [
+        170,
+        0
+      ]
+    },
+    {
+      "id": 85,
+      "plugin": "Bogaudio",
+      "version": "1.1.22",
+      "model": "Bogaudio-VCO",
+      "params": [
+        {
+          "id": 0,
+          "value": -0.850499749
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0490001924
+        },
+        {
+          "id": 5,
+          "value": 1.0
+        }
+      ],
+      "rightModuleId": 74,
+      "pos": [
+        103,
+        1
+      ]
+    },
+    {
+      "id": 89,
+      "plugin": "VultModulesFree",
+      "version": "1.3.0",
+      "model": "Unstabile",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.620500147
+        },
+        {
+          "id": 1,
+          "value": 0.61349988
+        },
+        {
+          "id": 2,
+          "value": 0.963
+        },
+        {
+          "id": 3,
+          "value": -0.4359999
+        },
+        {
+          "id": 4,
+          "value": 0.83950007
+        },
+        {
+          "id": 5,
+          "value": 0.660000026
+        },
+        {
+          "id": 6,
+          "value": 0.25799942
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "rightModuleId": 90,
+      "pos": [
+        124,
+        1
+      ]
+    },
+    {
+      "id": 90,
+      "plugin": "NYSTHI",
+      "version": "1.0.3",
+      "model": "LFOMultiPhase",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0155000156
+        },
+        {
+          "id": 1,
+          "value": -0.0456000082
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.5
+        },
+        {
+          "id": 6,
+          "value": 1.30199289
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.300029814
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 1.0
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.5
+        }
+      ],
+      "leftModuleId": 89,
+      "data": {
+        "REALFREQUENCY": 0.0155000156,
+        "m_duplicate_voltage": false
+      },
+      "pos": [
+        134,
+        1
+      ]
+    },
+    {
+      "id": 91,
+      "plugin": "AS",
+      "version": "1.0.3",
+      "model": "TriLFO",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 1.0
+        },
+        {
+          "id": 2,
+          "value": -4.03999567
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 1.0
+        },
+        {
+          "id": 5,
+          "value": -2.05300236
+        },
+        {
+          "id": 6,
+          "value": 1.0
+        },
+        {
+          "id": 7,
+          "value": 1.0
+        },
+        {
+          "id": 8,
+          "value": -1.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 0.0
+        }
+      ],
+      "rightModuleId": 7,
+      "pos": [
+        142,
+        1
+      ]
+    }
+  ],
+  "cables": [
+    {
+      "id": 166,
+      "outputModuleId": 57,
+      "outputId": 2,
+      "inputModuleId": 59,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 170,
+      "outputModuleId": 58,
+      "outputId": 0,
+      "inputModuleId": 7,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 171,
+      "outputModuleId": 58,
+      "outputId": 1,
+      "inputModuleId": 7,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 175,
+      "outputModuleId": 59,
+      "outputId": 0,
+      "inputModuleId": 61,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 176,
+      "outputModuleId": 6,
+      "outputId": 0,
+      "inputModuleId": 61,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 177,
+      "outputModuleId": 61,
+      "outputId": 0,
+      "inputModuleId": 58,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 181,
+      "outputModuleId": 63,
+      "outputId": 0,
+      "inputModuleId": 62,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 185,
+      "outputModuleId": 63,
+      "outputId": 1,
+      "inputModuleId": 62,
+      "inputId": 3,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 187,
+      "outputModuleId": 6,
+      "outputId": 0,
+      "inputModuleId": 59,
+      "inputId": 2,
+      "color": "#c91847"
+    },
+    {
+      "id": 188,
+      "outputModuleId": 65,
+      "outputId": 0,
+      "inputModuleId": 66,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 194,
+      "outputModuleId": 66,
+      "outputId": 1,
+      "inputModuleId": 68,
+      "inputId": 2,
+      "color": "#c91847"
+    },
+    {
+      "id": 195,
+      "outputModuleId": 68,
+      "outputId": 0,
+      "inputModuleId": 65,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 196,
+      "outputModuleId": 62,
+      "outputId": 7,
+      "inputModuleId": 66,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 191,
+      "outputModuleId": 66,
+      "outputId": 0,
+      "inputModuleId": 69,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 198,
+      "outputModuleId": 69,
+      "outputId": 0,
+      "inputModuleId": 58,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 199,
+      "outputModuleId": 70,
+      "outputId": 0,
+      "inputModuleId": 65,
+      "inputId": 1,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 203,
+      "outputModuleId": 73,
+      "outputId": 0,
+      "inputModuleId": 6,
+      "inputId": 3,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 183,
+      "outputModuleId": 62,
+      "outputId": 5,
+      "inputModuleId": 6,
+      "inputId": 4,
+      "color": "#c91847"
+    },
+    {
+      "id": 205,
+      "outputModuleId": 75,
+      "outputId": 1,
+      "inputModuleId": 77,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 206,
+      "outputModuleId": 77,
+      "outputId": 0,
+      "inputModuleId": 58,
+      "inputId": 2,
+      "color": "#c91847"
+    },
+    {
+      "id": 213,
+      "outputModuleId": 78,
+      "outputId": 5,
+      "inputModuleId": 75,
+      "inputId": 6,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 214,
+      "outputModuleId": 78,
+      "outputId": 8,
+      "inputModuleId": 77,
+      "inputId": 8,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 217,
+      "outputModuleId": 78,
+      "outputId": 0,
+      "inputModuleId": 77,
+      "inputId": 7,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 221,
+      "outputModuleId": 75,
+      "outputId": 2,
+      "inputModuleId": 80,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 222,
+      "outputModuleId": 80,
+      "outputId": 0,
+      "inputModuleId": 58,
+      "inputId": 3,
+      "color": "#c91847"
+    },
+    {
+      "id": 223,
+      "outputModuleId": 78,
+      "outputId": 9,
+      "inputModuleId": 80,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 226,
+      "outputModuleId": 58,
+      "outputId": 0,
+      "inputModuleId": 83,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 227,
+      "outputModuleId": 58,
+      "outputId": 1,
+      "inputModuleId": 83,
+      "inputId": 1,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 228,
+      "outputModuleId": 83,
+      "outputId": 0,
+      "inputModuleId": 1,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 229,
+      "outputModuleId": 83,
+      "outputId": 1,
+      "inputModuleId": 1,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 231,
+      "outputModuleId": 58,
+      "outputId": 14,
+      "inputModuleId": 83,
+      "inputId": 6,
+      "color": "#c91847"
+    },
+    {
+      "id": 230,
+      "outputModuleId": 58,
+      "outputId": 10,
+      "inputModuleId": 83,
+      "inputId": 5,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 232,
+      "outputModuleId": 78,
+      "outputId": 8,
+      "inputModuleId": 80,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 239,
+      "outputModuleId": 85,
+      "outputId": 3,
+      "inputModuleId": 89,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 244,
+      "outputModuleId": 90,
+      "outputId": 8,
+      "inputModuleId": 89,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 246,
+      "outputModuleId": 90,
+      "outputId": 2,
+      "inputModuleId": 89,
+      "inputId": 1,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 245,
+      "outputModuleId": 90,
+      "outputId": 5,
+      "inputModuleId": 89,
+      "inputId": 3,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 240,
+      "outputModuleId": 89,
+      "outputId": 0,
+      "inputModuleId": 58,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 247,
+      "outputModuleId": 91,
+      "outputId": 0,
+      "inputModuleId": 58,
+      "inputId": 50,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 248,
+      "outputModuleId": 91,
+      "outputId": 0,
+      "inputModuleId": 58,
+      "inputId": 51,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 249,
+      "outputModuleId": 91,
+      "outputId": 0,
+      "inputModuleId": 58,
+      "inputId": 52,
+      "color": "#c91847"
+    },
+    {
+      "id": 250,
+      "outputModuleId": 91,
+      "outputId": 4,
+      "inputModuleId": 66,
+      "inputId": 3,
+      "color": "#0986ad"
+    }
+  ]
+}
