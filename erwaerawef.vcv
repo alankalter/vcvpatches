@@ -38,8 +38,8 @@
         ]
       },
       "pos": [
-        115,
-        2
+        151,
+        1
       ]
     },
     {
@@ -87,7 +87,7 @@
       ],
       "rightModuleId": 175,
       "pos": [
-        116,
+        161,
         1
       ]
     },
@@ -123,7 +123,7 @@
       },
       "text": "dgdgdfgdfg",
       "pos": [
-        126,
+        171,
         1
       ]
     },
@@ -155,7 +155,7 @@
         ]
       },
       "pos": [
-        131,
+        176,
         1
       ]
     },
@@ -187,7 +187,7 @@
         ]
       },
       "pos": [
-        137,
+        182,
         1
       ]
     },
@@ -219,7 +219,7 @@
         ]
       },
       "pos": [
-        143,
+        188,
         1
       ]
     },
@@ -247,11 +247,11 @@
       "data": {
         "as_FlowStates": [
           0,
-          1
+          0
         ]
       },
       "pos": [
-        149,
+        194,
         1
       ]
     },
@@ -263,7 +263,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.5
+          "value": 0.674500167
         },
         {
           "id": 1,
@@ -279,7 +279,7 @@
         },
         {
           "id": 4,
-          "value": 0.0570000112
+          "value": 0.0719999894
         },
         {
           "id": 5,
@@ -295,11 +295,11 @@
         },
         {
           "id": 8,
-          "value": 0.0
+          "value": 0.179999888
         },
         {
           "id": 9,
-          "value": 0.0
+          "value": 0.090000011
         },
         {
           "id": 10,
@@ -351,7 +351,7 @@
         },
         {
           "id": 22,
-          "value": 0.597000241
+          "value": 0.582000136
         },
         {
           "id": 23,
@@ -383,15 +383,15 @@
         },
         {
           "id": 30,
-          "value": 0.0
+          "value": -0.386999995
         },
         {
           "id": 31,
-          "value": 0.0
+          "value": 0.198000014
         },
         {
           "id": 32,
-          "value": 0.0
+          "value": 0.171000004
         },
         {
           "id": 33,
@@ -583,11 +583,11 @@
         },
         {
           "id": 80,
-          "value": 0.5
+          "value": 0.0
         },
         {
           "id": 81,
-          "value": 0.5
+          "value": 0.0
         },
         {
           "id": 82,
@@ -679,11 +679,11 @@
         },
         {
           "id": 104,
-          "value": 0.5
+          "value": 0.0
         },
         {
           "id": 105,
-          "value": 0.5
+          "value": 0.0
         },
         {
           "id": 106,
@@ -863,15 +863,15 @@
         },
         {
           "id": 150,
-          "value": 0.0
+          "value": 0.553500056
         },
         {
           "id": 151,
-          "value": 0.0
+          "value": 0.926499665
         },
         {
           "id": 152,
-          "value": 0.0
+          "value": 0.91749984
         },
         {
           "id": 153,
@@ -879,15 +879,15 @@
         },
         {
           "id": 154,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 155,
-          "value": 0.0
+          "value": 0.974999845
         },
         {
           "id": 156,
-          "value": 0.0
+          "value": 0.178499997
         },
         {
           "id": 157,
@@ -1188,7 +1188,7 @@
         ]
       },
       "pos": [
-        155,
+        200,
         1
       ]
     },
@@ -1200,7 +1200,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.504500151
+          "value": 0.585499942
         },
         {
           "id": 1,
@@ -1216,11 +1216,11 @@
         },
         {
           "id": 4,
-          "value": 0.99849999
+          "value": 1.0
         },
         {
           "id": 5,
-          "value": 0.0
+          "value": 0.627000511
         },
         {
           "id": 6,
@@ -1234,7 +1234,7 @@
       "leftModuleId": 180,
       "rightModuleId": 206,
       "pos": [
-        200,
+        245,
         1
       ]
     },
@@ -1283,7 +1283,7 @@
         "m_bBypass": false
       },
       "pos": [
-        213,
+        258,
         1
       ]
     },
@@ -1305,7 +1305,7 @@
         }
       },
       "pos": [
-        221,
+        266,
         1
       ]
     },
@@ -4685,7 +4685,7 @@
         ]
       },
       "pos": [
-        166,
+        211,
         2
       ]
     },
@@ -4838,7 +4838,7 @@
         "mk2": true
       },
       "pos": [
-        140,
+        185,
         2
       ]
     },
@@ -4899,7 +4899,7 @@
       ],
       "rightModuleId": 202,
       "pos": [
-        199,
+        244,
         2
       ]
     },
@@ -4967,7 +4967,7 @@
         }
       ],
       "pos": [
-        219,
+        264,
         2
       ]
     },
@@ -4987,7 +4987,7 @@
         "sampletype": 1
       },
       "pos": [
-        124,
+        169,
         2
       ]
     },
@@ -5000,7 +5000,7 @@
       "leftModuleId": 200,
       "rightModuleId": 192,
       "pos": [
-        137,
+        182,
         2
       ]
     },
@@ -5030,7 +5030,7 @@
       "leftModuleId": 192,
       "rightModuleId": 185,
       "pos": [
-        160,
+        205,
         2
       ]
     },
@@ -5046,7 +5046,7 @@
         "m_use_10volts": false
       },
       "pos": [
-        132,
+        177,
         2
       ]
     },
@@ -5107,7 +5107,7 @@
       ],
       "leftModuleId": 193,
       "pos": [
-        207,
+        252,
         2
       ]
     },
@@ -5150,7 +5150,7 @@
         "m_vactrol_lineartities0": true
       },
       "pos": [
-        128,
+        173,
         2
       ]
     },
@@ -8529,7 +8529,7 @@
         ]
       },
       "pos": [
-        166,
+        211,
         3
       ]
     },
@@ -9543,7 +9543,7 @@
           }
         ],
         "currentPattern": 0,
-        "currentStep": 38,
+        "currentStep": 4,
         "clockDelay": 0,
         "sequenceRunning": true
       },
@@ -9551,7 +9551,7 @@
       "notesToShow": 18,
       "currentMeasure": 0,
       "pos": [
-        125,
+        170,
         3
       ]
     },
@@ -9617,7 +9617,7 @@
       "leftModuleId": 181,
       "rightModuleId": 183,
       "pos": [
-        206,
+        251,
         1
       ]
     },
@@ -9685,7 +9685,7 @@
         }
       ],
       "pos": [
-        199,
+        244,
         0
       ]
     },
@@ -9709,7 +9709,7 @@
         }
       ],
       "pos": [
-        199,
+        244,
         3
       ]
     },
@@ -9761,7 +9761,7 @@
         "shouldTriggerOnLoad": true
       },
       "pos": [
-        117,
+        162,
         4
       ]
     },
@@ -9829,7 +9829,7 @@
         }
       ],
       "pos": [
-        161,
+        206,
         4
       ]
     },
@@ -9847,7 +9847,7 @@
       "leftModuleId": 215,
       "rightModuleId": 205,
       "pos": [
-        115,
+        160,
         3
       ]
     },
@@ -9912,7 +9912,7 @@
         "easterEgg": false
       },
       "pos": [
-        134,
+        179,
         4
       ]
     },
@@ -9984,7 +9984,7 @@
       "notesToShow": 18,
       "currentMeasure": 0,
       "pos": [
-        75,
+        120,
         3
       ]
     },
@@ -10019,7 +10019,7 @@
         "m_midi_mode_offset_value": 0.0
       },
       "pos": [
-        93,
+        138,
         4
       ]
     },
@@ -10181,7 +10181,7 @@
         "phase_25": 0.0
       },
       "pos": [
-        50,
+        95,
         4
       ]
     },
@@ -10652,7 +10652,7 @@
           }
         ],
         "currentPattern": 0,
-        "currentStep": 3,
+        "currentStep": 20,
         "clockDelay": 0,
         "sequenceRunning": true
       },
@@ -10660,7 +10660,7 @@
       "notesToShow": 18,
       "currentMeasure": 0,
       "pos": [
-        6,
+        51,
         4
       ]
     },
@@ -10681,7 +10681,7 @@
       ],
       "rightModuleId": 215,
       "pos": [
-        70,
+        115,
         3
       ]
     },
@@ -10723,7 +10723,7 @@
         ]
       },
       "pos": [
-        0,
+        45,
         4
       ]
     },
@@ -10751,7 +10751,7 @@
         }
       ],
       "pos": [
-        18,
+        63,
         3
       ]
     },
@@ -10815,7 +10815,7 @@
         }
       ],
       "pos": [
-        55,
+        100,
         5
       ]
     },
@@ -10851,7 +10851,7 @@
         }
       ],
       "pos": [
-        204,
+        249,
         3
       ]
     },
@@ -10903,7 +10903,7 @@
         "shouldTriggerOnLoad": false
       },
       "pos": [
-        215,
+        260,
         3
       ]
     },
@@ -10955,7 +10955,7 @@
         }
       ],
       "pos": [
-        181,
+        226,
         0
       ]
     },
@@ -10992,7 +10992,7 @@
       ],
       "leftModuleId": 232,
       "pos": [
-        168,
+        213,
         0
       ]
     },
@@ -11045,7 +11045,7 @@
       ],
       "rightModuleId": 234,
       "pos": [
-        153,
+        198,
         0
       ]
     },
@@ -11081,7 +11081,7 @@
         "m_active_mode": true
       },
       "pos": [
-        78,
+        123,
         2
       ]
     },
@@ -11095,7 +11095,7 @@
         "m_use_10volts": false
       },
       "pos": [
-        103,
+        148,
         2
       ]
     },
@@ -11265,7 +11265,7 @@
         "gateMode": 0
       },
       "pos": [
-        40,
+        85,
         2
       ]
     },
@@ -11279,7 +11279,7 @@
         "m_use_10volts": false
       },
       "pos": [
-        90,
+        135,
         2
       ]
     },
@@ -11291,7 +11291,7 @@
       "params": [],
       "rightModuleId": 243,
       "pos": [
-        52,
+        97,
         3
       ]
     },
@@ -11303,8 +11303,4024 @@
       "params": [],
       "leftModuleId": 242,
       "pos": [
-        55,
+        100,
         3
+      ]
+    },
+    {
+      "id": 249,
+      "plugin": "NYSTHI",
+      "version": "1.0.6",
+      "model": "PolyLPG",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 1.0
+        },
+        {
+          "id": 2,
+          "value": 0.5
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 275,
+      "data": {
+        "m_VCALP_mode": 1,
+        "m_vactrol_speed0": 1,
+        "m_vactrol_lineartities0": false
+      },
+      "pos": [
+        56,
+        1
+      ]
+    },
+    {
+      "id": 250,
+      "plugin": "rcm",
+      "version": "1.1.0",
+      "model": "rcm-pianoroll",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 277,
+      "data": {
+        "patterns": [
+          {
+            "numberOfMeasures": 1,
+            "beatsPerMeasure": 11,
+            "divisionsPerBeat": 8,
+            "measures": [
+              {
+                "notes": [
+                  {
+                    "pitch": 55,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 55,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 55,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 55,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 54,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 55,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 55,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 55,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 54,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 57,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 57,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 49,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 59,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 57,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 47,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 46,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 53,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 37,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 40,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 42,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 42,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 42,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 42,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": true
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 46,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 50,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 46,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 47,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 49,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 52,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 57,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 54,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 51,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 49,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  }
+                ]
+              },
+              {
+                "notes": [
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numberOfMeasures": 1,
+            "beatsPerMeasure": 11,
+            "divisionsPerBeat": 8,
+            "measures": [
+              {
+                "notes": [
+                  {
+                    "pitch": 55,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 55,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 55,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 55,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 54,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 55,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 54,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 57,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 59,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 57,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 57,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 49,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 59,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 57,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 47,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 46,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 44,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 40,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 53,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 37,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 40,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 42,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 42,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 42,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 42,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": true
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 46,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 47,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 50,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 46,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 47,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 49,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 52,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 57,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 54,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 51,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 49,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 47,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 46,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 52,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 52,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  }
+                ]
+              },
+              {
+                "notes": [
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numberOfMeasures": 1,
+            "beatsPerMeasure": 11,
+            "divisionsPerBeat": 8,
+            "measures": [
+              {
+                "notes": [
+                  {
+                    "pitch": 51,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 55,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 55,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 55,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 52,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 55,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 54,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 52,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 54,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 57,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 57,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 49,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 59,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 57,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 47,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 46,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 47,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 44,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 40,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 53,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 37,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 40,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 42,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 42,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 42,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 42,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": true
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 46,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 47,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 45,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 50,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 46,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 47,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 49,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 52,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 57,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 54,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 51,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 49,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 47,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 51,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 47,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 52,
+                    "velocity": 0.75,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  }
+                ]
+              },
+              {
+                "notes": [
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "currentPattern": 0,
+        "currentStep": 59,
+        "clockDelay": 0,
+        "sequenceRunning": true
+      },
+      "lowestDisplayNote": 36,
+      "notesToShow": 18,
+      "currentMeasure": 0,
+      "pos": [
+        40,
+        0
+      ]
+    },
+    {
+      "id": 253,
+      "plugin": "squinkylabs-plug1",
+      "version": "1.0.5",
+      "model": "squinkylabs-vocalfilter",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": -0.23900038
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.378999978
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 1.0
+        },
+        {
+          "id": 6,
+          "value": 3.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.333999783
+        }
+      ],
+      "pos": [
+        93,
+        0
+      ]
+    },
+    {
+      "id": 254,
+      "plugin": "Bogaudio",
+      "version": "1.1.22",
+      "model": "Bogaudio-SampleHold",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 258,
+      "data": {
+        "noise_type": 0,
+        "range_offset": 1.0,
+        "range_scale": 5.0
+      },
+      "pos": [
+        122,
+        0
+      ]
+    },
+    {
+      "id": 255,
+      "plugin": "Fundamental",
+      "version": "1.3.1",
+      "model": "Noise",
+      "params": [],
+      "rightModuleId": 258,
+      "pos": [
+        116,
+        0
+      ]
+    },
+    {
+      "id": 256,
+      "plugin": "Befaco",
+      "version": "1.0.0",
+      "model": "SlewLimiter",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.865500033
+        },
+        {
+          "id": 1,
+          "value": 0.291000068
+        },
+        {
+          "id": 2,
+          "value": 0.276000023
+        }
+      ],
+      "rightModuleId": 261,
+      "pos": [
+        130,
+        0
+      ]
+    },
+    {
+      "id": 258,
+      "plugin": "Bogaudio",
+      "version": "1.1.22",
+      "model": "Bogaudio-SampleHold",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 255,
+      "rightModuleId": 254,
+      "data": {
+        "noise_type": 0,
+        "range_offset": 1.0,
+        "range_scale": 5.0
+      },
+      "pos": [
+        119,
+        0
+      ]
+    },
+    {
+      "id": 261,
+      "plugin": "Befaco",
+      "version": "1.0.0",
+      "model": "SlewLimiter",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.865500033
+        },
+        {
+          "id": 1,
+          "value": 0.268000066
+        },
+        {
+          "id": 2,
+          "value": 0.339000016
+        }
+      ],
+      "leftModuleId": 256,
+      "rightModuleId": 262,
+      "pos": [
+        136,
+        0
+      ]
+    },
+    {
+      "id": 262,
+      "plugin": "Befaco",
+      "version": "1.0.0",
+      "model": "SlewLimiter",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.865500033
+        },
+        {
+          "id": 1,
+          "value": 0.282000124
+        },
+        {
+          "id": 2,
+          "value": 0.3510001
+        }
+      ],
+      "leftModuleId": 261,
+      "rightModuleId": 263,
+      "pos": [
+        142,
+        0
+      ]
+    },
+    {
+      "id": 263,
+      "plugin": "Befaco",
+      "version": "1.0.0",
+      "model": "SlewLimiter",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.865500033
+        },
+        {
+          "id": 1,
+          "value": 0.378000021
+        },
+        {
+          "id": 2,
+          "value": 0.429999888
+        }
+      ],
+      "leftModuleId": 262,
+      "pos": [
+        148,
+        0
+      ]
+    },
+    {
+      "id": 265,
+      "plugin": "AudibleInstruments",
+      "version": "1.0.0",
+      "model": "Plaits",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        },
+        {
+          "id": 3,
+          "value": 0.5
+        },
+        {
+          "id": 4,
+          "value": 0.521000326
+        },
+        {
+          "id": 5,
+          "value": 0.5
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 268,
+      "data": {
+        "lowCpu": false,
+        "model": 0,
+        "lpgColor": 0.5,
+        "decay": 0.5
+      },
+      "pos": [
+        86,
+        1
+      ]
+    },
+    {
+      "id": 267,
+      "plugin": "dBiz",
+      "version": "1.1.2",
+      "model": "Transpose",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 6.5
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        }
+      ],
+      "pos": [
+        65,
+        1
+      ]
+    },
+    {
+      "id": 268,
+      "plugin": "AudibleInstruments",
+      "version": "1.0.0",
+      "model": "Plaits",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.5
+        },
+        {
+          "id": 4,
+          "value": 0.44750005
+        },
+        {
+          "id": 5,
+          "value": 0.5
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        }
+      ],
+      "rightModuleId": 265,
+      "data": {
+        "lowCpu": false,
+        "model": 2,
+        "lpgColor": 0.5,
+        "decay": 0.5
+      },
+      "pos": [
+        74,
+        1
+      ]
+    },
+    {
+      "id": 270,
+      "plugin": "Befaco",
+      "version": "1.0.0",
+      "model": "EvenVCO",
+      "params": [
+        {
+          "id": 0,
+          "value": -1.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        }
+      ],
+      "pos": [
+        60,
+        2
+      ]
+    },
+    {
+      "id": 271,
+      "plugin": "AS",
+      "version": "1.0.3",
+      "model": "QuadVCA",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.297000021
+        },
+        {
+          "id": 1,
+          "value": 0.548999906
+        },
+        {
+          "id": 2,
+          "value": 0.5
+        },
+        {
+          "id": 3,
+          "value": 0.5
+        },
+        {
+          "id": 4,
+          "value": 1.0
+        },
+        {
+          "id": 5,
+          "value": 1.0
+        },
+        {
+          "id": 6,
+          "value": 1.0
+        },
+        {
+          "id": 7,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 273,
+      "pos": [
+        42,
+        2
+      ]
+    },
+    {
+      "id": 273,
+      "plugin": "Fundamental",
+      "version": "1.3.1",
+      "model": "ADSR",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.493500292
+        },
+        {
+          "id": 1,
+          "value": 0.5
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.70650053
+        }
+      ],
+      "rightModuleId": 271,
+      "pos": [
+        34,
+        2
+      ]
+    },
+    {
+      "id": 274,
+      "plugin": "Bogaudio",
+      "version": "1.1.22",
+      "model": "Bogaudio-CVD",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0494999923
+        },
+        {
+          "id": 1,
+          "value": 1.0
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        }
+      ],
+      "rightModuleId": 276,
+      "pos": [
+        42,
+        1
+      ]
+    },
+    {
+      "id": 275,
+      "plugin": "Fundamental",
+      "version": "1.3.1",
+      "model": "VCF",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.648499906
+        },
+        {
+          "id": 1,
+          "value": 0.5
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 276,
+      "rightModuleId": 249,
+      "pos": [
+        48,
+        1
+      ]
+    },
+    {
+      "id": 276,
+      "plugin": "Bogaudio",
+      "version": "1.1.22",
+      "model": "Bogaudio-CVD",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.588
+        },
+        {
+          "id": 1,
+          "value": 1.0
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 274,
+      "rightModuleId": 275,
+      "pos": [
+        45,
+        1
+      ]
+    },
+    {
+      "id": 277,
+      "plugin": "rcm",
+      "version": "1.1.0",
+      "model": "rcm-pianoroll",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        }
+      ],
+      "rightModuleId": 250,
+      "data": {
+        "patterns": [
+          {
+            "numberOfMeasures": 1,
+            "beatsPerMeasure": 1,
+            "divisionsPerBeat": 6,
+            "measures": [
+              {
+                "notes": [
+                  {
+                    "pitch": 48,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 51,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 49,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 51,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 50,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  },
+                  {
+                    "pitch": 51,
+                    "velocity": 0.75,
+                    "retrigger": true,
+                    "active": true
+                  }
+                ]
+              },
+              {
+                "notes": [
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  },
+                  {
+                    "pitch": 0,
+                    "velocity": 0.0,
+                    "retrigger": false,
+                    "active": false
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "currentPattern": 0,
+        "currentStep": 5,
+        "clockDelay": 0,
+        "sequenceRunning": true
+      },
+      "lowestDisplayNote": 48,
+      "notesToShow": 18,
+      "currentMeasure": 0,
+      "pos": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 278,
+      "plugin": "AS",
+      "version": "1.0.3",
+      "model": "Flow",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        }
+      ],
+      "data": {
+        "as_FlowStates": [
+          0,
+          0
+        ]
+      },
+      "pos": [
+        177,
+        0
+      ]
+    },
+    {
+      "id": 279,
+      "plugin": "wiqid-anomalies",
+      "version": "1.1.0",
+      "model": "thomas",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.757741988
+        },
+        {
+          "id": 1,
+          "value": 0.187999994
+        },
+        {
+          "id": 2,
+          "value": 5.0
+        }
+      ],
+      "pos": [
+        163,
+        0
       ]
     }
   ],
@@ -12084,6 +16100,334 @@
       "inputModuleId": 214,
       "inputId": 5,
       "color": "#0986ad"
+    },
+    {
+      "id": 2014,
+      "outputModuleId": 250,
+      "outputId": 6,
+      "inputModuleId": 254,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 2029,
+      "outputModuleId": 255,
+      "outputId": 0,
+      "inputModuleId": 258,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 2030,
+      "outputModuleId": 255,
+      "outputId": 1,
+      "inputModuleId": 254,
+      "inputId": 1,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 2031,
+      "outputModuleId": 255,
+      "outputId": 2,
+      "inputModuleId": 258,
+      "inputId": 3,
+      "color": "#c91847"
+    },
+    {
+      "id": 2032,
+      "outputModuleId": 255,
+      "outputId": 3,
+      "inputModuleId": 254,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 2033,
+      "outputModuleId": 254,
+      "outputId": 1,
+      "inputModuleId": 256,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 2034,
+      "outputModuleId": 258,
+      "outputId": 1,
+      "inputModuleId": 261,
+      "inputId": 2,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 2035,
+      "outputModuleId": 258,
+      "outputId": 0,
+      "inputModuleId": 262,
+      "inputId": 2,
+      "color": "#c91847"
+    },
+    {
+      "id": 2036,
+      "outputModuleId": 254,
+      "outputId": 0,
+      "inputModuleId": 263,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 2037,
+      "outputModuleId": 256,
+      "outputId": 0,
+      "inputModuleId": 253,
+      "inputId": 4,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 2038,
+      "outputModuleId": 261,
+      "outputId": 0,
+      "inputModuleId": 253,
+      "inputId": 2,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 2039,
+      "outputModuleId": 262,
+      "outputId": 0,
+      "inputModuleId": 253,
+      "inputId": 3,
+      "color": "#c91847"
+    },
+    {
+      "id": 2040,
+      "outputModuleId": 250,
+      "outputId": 6,
+      "inputModuleId": 258,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 2041,
+      "outputModuleId": 250,
+      "outputId": 6,
+      "inputModuleId": 254,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 2042,
+      "outputModuleId": 250,
+      "outputId": 6,
+      "inputModuleId": 258,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 2044,
+      "outputModuleId": 173,
+      "outputId": 4,
+      "inputModuleId": 250,
+      "inputId": 2,
+      "color": "#c91847"
+    },
+    {
+      "id": 2043,
+      "outputModuleId": 173,
+      "outputId": 2,
+      "inputModuleId": 250,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 2045,
+      "outputModuleId": 263,
+      "outputId": 0,
+      "inputModuleId": 253,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 2048,
+      "outputModuleId": 271,
+      "outputId": 0,
+      "inputModuleId": 180,
+      "inputId": 8,
+      "color": "#c91847"
+    },
+    {
+      "id": 2052,
+      "outputModuleId": 273,
+      "outputId": 0,
+      "inputModuleId": 271,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 2019,
+      "outputModuleId": 265,
+      "outputId": 0,
+      "inputModuleId": 253,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 2049,
+      "outputModuleId": 250,
+      "outputId": 6,
+      "inputModuleId": 274,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 2054,
+      "outputModuleId": 274,
+      "outputId": 0,
+      "inputModuleId": 273,
+      "inputId": 4,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 2055,
+      "outputModuleId": 274,
+      "outputId": 0,
+      "inputModuleId": 249,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 1997,
+      "outputModuleId": 275,
+      "outputId": 1,
+      "inputModuleId": 180,
+      "inputId": 7,
+      "color": "#c91847"
+    },
+    {
+      "id": 2057,
+      "outputModuleId": 271,
+      "outputId": 1,
+      "inputModuleId": 275,
+      "inputId": 3,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 2058,
+      "outputModuleId": 273,
+      "outputId": 0,
+      "inputModuleId": 271,
+      "inputId": 2,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 2050,
+      "outputModuleId": 250,
+      "outputId": 5,
+      "inputModuleId": 276,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 2060,
+      "outputModuleId": 276,
+      "outputId": 0,
+      "inputModuleId": 267,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 2061,
+      "outputModuleId": 276,
+      "outputId": 0,
+      "inputModuleId": 265,
+      "inputId": 7,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 2047,
+      "outputModuleId": 267,
+      "outputId": 2,
+      "inputModuleId": 270,
+      "inputId": 1,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 2062,
+      "outputModuleId": 250,
+      "outputId": 9,
+      "inputModuleId": 277,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 2020,
+      "outputModuleId": 253,
+      "outputId": 0,
+      "inputModuleId": 271,
+      "inputId": 3,
+      "color": "#c91847"
+    },
+    {
+      "id": 2051,
+      "outputModuleId": 270,
+      "outputId": 1,
+      "inputModuleId": 271,
+      "inputId": 1,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 2066,
+      "outputModuleId": 277,
+      "outputId": 3,
+      "inputModuleId": 250,
+      "inputId": 3,
+      "color": "#c91847"
+    },
+    {
+      "id": 2067,
+      "outputModuleId": 175,
+      "outputId": 0,
+      "inputModuleId": 278,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 2068,
+      "outputModuleId": 278,
+      "outputId": 1,
+      "inputModuleId": 180,
+      "inputId": 55,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 2069,
+      "outputModuleId": 278,
+      "outputId": 1,
+      "inputModuleId": 180,
+      "inputId": 56,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 2070,
+      "outputModuleId": 279,
+      "outputId": 0,
+      "inputModuleId": 180,
+      "inputId": 71,
+      "color": "#c91847"
+    },
+    {
+      "id": 2071,
+      "outputModuleId": 279,
+      "outputId": 1,
+      "inputModuleId": 180,
+      "inputId": 72,
+      "color": "#0986ad"
+    },
+    {
+      "id": 2072,
+      "outputModuleId": 174,
+      "outputId": 5,
+      "inputModuleId": 278,
+      "inputId": 5,
+      "color": "#c9b70e"
     }
   ]
 }

@@ -4517,7 +4517,7 @@
       ],
       "data": {
         "run": [
-          1
+          0
         ]
       },
       "pos": [
@@ -7457,7 +7457,7 @@
           }
         ],
         "currentPattern": 0,
-        "currentStep": 34,
+        "currentStep": 83,
         "clockDelay": 0,
         "sequenceRunning": true
       },
@@ -7897,7 +7897,7 @@
           }
         ],
         "currentPattern": 0,
-        "currentStep": 3,
+        "currentStep": 2,
         "clockDelay": 0,
         "sequenceRunning": true
       },
